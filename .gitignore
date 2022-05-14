@@ -1,3 +1,6 @@
+# escape extra large files
+demo_r_mweek3.tsv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

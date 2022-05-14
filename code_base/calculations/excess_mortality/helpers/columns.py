@@ -1,0 +1,34 @@
+class COL_HEAD:
+    SEX = 'Sex'
+    AGE = 'Age'
+    LOCATION = 'Location'
+    WEEK = 'Week'
+    YEAR = 'Year'
+    MORTALITY = 'Mortality'
+    YEAR_2015 = '2015'
+    YEAR_2016 = '2016'
+    YEAR_2017 = '2017'
+    YEAR_2018 = '2018'
+    YEAR_2019 = '2019'
+    YEAR_2020 = '2020'
+    YEAR_2021 = '2021'
+    YEAR_2022 = '2022'
+
+    MEAN_OR_EXPECTED_MORTALITY = 'Mean/Expected_' + MORTALITY
+    EXCESS_MORTALITY_BASE = 'Excess_mortality'
+    STANDARD_DEVIATION = 'STANDARD_DEVIATION'
+    EXCESS_MORTALITY_DECORATED = EXCESS_MORTALITY_BASE + ' ±'
+
+    Z_SCORE = 'Z-Score(95%)'
+    CONFIDENCE_INTERVAL = 'Conf_interval'
+    IS_SIGNIFICANT = 'SIGNIFICANT'
+
+    LB_MEAN_MORTALITY = 'Lower_bound_' + MEAN_OR_EXPECTED_MORTALITY
+    UB_MEAN_MORTALITY = 'Upper_bound_' + MEAN_OR_EXPECTED_MORTALITY
+    MEAN_MORTALITY_DECORATED = MEAN_OR_EXPECTED_MORTALITY + ' ±'
+
+    P_SCORE = 'P_Score'
+    P_SCORE_FLUCTUATION = P_SCORE + '_fluctuation'
+    P_SCORE_DECORATED = P_SCORE + ' ±'
+
+    

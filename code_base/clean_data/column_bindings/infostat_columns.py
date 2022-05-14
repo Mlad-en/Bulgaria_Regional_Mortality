@@ -1,0 +1,10 @@
+class InfostatColumns:
+    population = 'Population'
+    year = 'Year'
+    age = 'Age'
+    sex = 'Sex'
+    location = 'Location'
+    total = 'Total'
+    male = 'Male'
+    female = 'Female'
+    avg_population = 'avg_population'

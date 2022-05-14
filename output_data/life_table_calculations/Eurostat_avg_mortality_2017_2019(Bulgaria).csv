@@ -1,0 +1,1597 @@
+Sex,Age,Location,2017,2018,2019,avg_mortality
+Female,(0-4),Blagoevgrad,5.0,10.0,6.0,7.0
+Female,(0-4),Burgas,14.0,15.0,4.0,11.0
+Female,(0-4),Dobrich,8.0,5.0,6.0,6.33
+Female,(0-4),Gabrovo,4.0,3.0,1.0,2.67
+Female,(0-4),Haskovo,5.0,7.0,7.0,6.33
+Female,(0-4),Kardzhali,6.0,2.0,5.0,4.33
+Female,(0-4),Kyustendil,4.0,0.0,3.0,2.33
+Female,(0-4),Lovech,3.0,4.0,1.0,2.67
+Female,(0-4),Montana,5.0,4.0,2.0,3.67
+Female,(0-4),Pazardzhik,13.0,10.0,14.0,12.33
+Female,(0-4),Pernik,1.0,5.0,4.0,3.33
+Female,(0-4),Pleven,8.0,11.0,9.0,9.33
+Female,(0-4),Plovdiv,24.0,25.0,16.0,21.67
+Female,(0-4),Razgrad,1.0,3.0,4.0,2.67
+Female,(0-4),Ruse,6.0,4.0,6.0,5.33
+Female,(0-4),Shumen,5.0,3.0,3.0,3.67
+Female,(0-4),Silistra,1.0,1.0,2.0,1.33
+Female,(0-4),Sliven,10.0,15.0,21.0,15.33
+Female,(0-4),Smolyan,2.0,0.0,0.0,0.67
+Female,(0-4),Sofia,11.0,6.0,7.0,8.0
+Female,(0-4),Sofia (stolitsa),23.0,22.0,14.0,19.67
+Female,(0-4),Stara Zagora,17.0,10.0,18.0,15.0
+Female,(0-4),Targovishte,4.0,2.0,4.0,3.33
+Female,(0-4),Varna,18.0,17.0,16.0,17.0
+Female,(0-4),Veliko Tarnovo,8.0,5.0,8.0,7.0
+Female,(0-4),Vidin,1.0,2.0,4.0,2.33
+Female,(0-4),Vratsa,7.0,7.0,5.0,6.33
+Female,(0-4),Yambol,4.0,7.0,4.0,5.0
+Female,(10-14),Blagoevgrad,0.0,0.0,1.0,0.33
+Female,(10-14),Burgas,3.0,0.0,2.0,1.67
+Female,(10-14),Dobrich,0.0,0.0,0.0,0.0
+Female,(10-14),Gabrovo,0.0,0.0,0.0,0.0
+Female,(10-14),Haskovo,0.0,1.0,0.0,0.33
+Female,(10-14),Kardzhali,0.0,0.0,0.0,0.0
+Female,(10-14),Kyustendil,1.0,0.0,0.0,0.33
+Female,(10-14),Lovech,0.0,0.0,0.0,0.0
+Female,(10-14),Montana,0.0,0.0,0.0,0.0
+Female,(10-14),Pazardzhik,4.0,1.0,1.0,2.0
+Female,(10-14),Pernik,1.0,0.0,1.0,0.67
+Female,(10-14),Pleven,2.0,1.0,3.0,2.0
+Female,(10-14),Plovdiv,1.0,2.0,2.0,1.67
+Female,(10-14),Razgrad,0.0,0.0,0.0,0.0
+Female,(10-14),Ruse,0.0,2.0,2.0,1.33
+Female,(10-14),Shumen,0.0,1.0,2.0,1.0
+Female,(10-14),Silistra,0.0,0.0,0.0,0.0
+Female,(10-14),Sliven,1.0,0.0,1.0,0.67
+Female,(10-14),Smolyan,0.0,0.0,1.0,0.33
+Female,(10-14),Sofia,2.0,3.0,2.0,2.33
+Female,(10-14),Sofia (stolitsa),4.0,1.0,6.0,3.67
+Female,(10-14),Stara Zagora,0.0,2.0,0.0,0.67
+Female,(10-14),Targovishte,0.0,0.0,1.0,0.33
+Female,(10-14),Varna,0.0,2.0,1.0,1.0
+Female,(10-14),Veliko Tarnovo,0.0,1.0,0.0,0.33
+Female,(10-14),Vidin,0.0,0.0,0.0,0.0
+Female,(10-14),Vratsa,0.0,3.0,3.0,2.0
+Female,(10-14),Yambol,1.0,0.0,0.0,0.33
+Female,(15-19),Blagoevgrad,2.0,0.0,2.0,1.33
+Female,(15-19),Burgas,2.0,7.0,3.0,4.0
+Female,(15-19),Dobrich,0.0,2.0,0.0,0.67
+Female,(15-19),Gabrovo,2.0,0.0,0.0,0.67
+Female,(15-19),Haskovo,0.0,4.0,4.0,2.67
+Female,(15-19),Kardzhali,1.0,0.0,1.0,0.67
+Female,(15-19),Kyustendil,1.0,0.0,1.0,0.67
+Female,(15-19),Lovech,1.0,1.0,2.0,1.33
+Female,(15-19),Montana,1.0,3.0,1.0,1.67
+Female,(15-19),Pazardzhik,1.0,1.0,3.0,1.67
+Female,(15-19),Pernik,2.0,0.0,0.0,0.67
+Female,(15-19),Pleven,1.0,1.0,0.0,0.67
+Female,(15-19),Plovdiv,4.0,6.0,5.0,5.0
+Female,(15-19),Razgrad,0.0,1.0,1.0,0.67
+Female,(15-19),Ruse,1.0,0.0,0.0,0.33
+Female,(15-19),Shumen,1.0,2.0,0.0,1.0
+Female,(15-19),Silistra,1.0,1.0,4.0,2.0
+Female,(15-19),Sliven,0.0,4.0,4.0,2.67
+Female,(15-19),Smolyan,1.0,0.0,0.0,0.33
+Female,(15-19),Sofia,1.0,1.0,1.0,1.0
+Female,(15-19),Sofia (stolitsa),9.0,6.0,3.0,6.0
+Female,(15-19),Stara Zagora,3.0,3.0,2.0,2.67
+Female,(15-19),Targovishte,1.0,2.0,0.0,1.0
+Female,(15-19),Varna,1.0,0.0,3.0,1.33
+Female,(15-19),Veliko Tarnovo,0.0,0.0,3.0,1.0
+Female,(15-19),Vidin,0.0,0.0,0.0,0.0
+Female,(15-19),Vratsa,1.0,1.0,0.0,0.67
+Female,(15-19),Yambol,2.0,2.0,0.0,1.33
+Female,(20-24),Blagoevgrad,2.0,2.0,0.0,1.33
+Female,(20-24),Burgas,4.0,1.0,0.0,1.67
+Female,(20-24),Dobrich,2.0,1.0,0.0,1.0
+Female,(20-24),Gabrovo,0.0,0.0,1.0,0.33
+Female,(20-24),Haskovo,2.0,1.0,1.0,1.33
+Female,(20-24),Kardzhali,2.0,2.0,1.0,1.67
+Female,(20-24),Kyustendil,0.0,0.0,0.0,0.0
+Female,(20-24),Lovech,2.0,0.0,2.0,1.33
+Female,(20-24),Montana,1.0,2.0,1.0,1.33
+Female,(20-24),Pazardzhik,4.0,2.0,1.0,2.33
+Female,(20-24),Pernik,0.0,1.0,3.0,1.33
+Female,(20-24),Pleven,2.0,2.0,1.0,1.67
+Female,(20-24),Plovdiv,3.0,8.0,2.0,4.33
+Female,(20-24),Razgrad,4.0,3.0,0.0,2.33
+Female,(20-24),Ruse,1.0,1.0,5.0,2.33
+Female,(20-24),Shumen,1.0,3.0,3.0,2.33
+Female,(20-24),Silistra,1.0,1.0,1.0,1.0
+Female,(20-24),Sliven,2.0,1.0,4.0,2.33
+Female,(20-24),Smolyan,0.0,0.0,0.0,0.0
+Female,(20-24),Sofia,0.0,1.0,0.0,0.33
+Female,(20-24),Sofia (stolitsa),10.0,10.0,13.0,11.0
+Female,(20-24),Stara Zagora,3.0,4.0,3.0,3.33
+Female,(20-24),Targovishte,0.0,1.0,1.0,0.67
+Female,(20-24),Varna,6.0,4.0,2.0,4.0
+Female,(20-24),Veliko Tarnovo,2.0,3.0,0.0,1.67
+Female,(20-24),Vidin,2.0,0.0,1.0,1.0
+Female,(20-24),Vratsa,1.0,3.0,1.0,1.67
+Female,(20-24),Yambol,0.0,1.0,3.0,1.33
+Female,(25-29),Blagoevgrad,2.0,5.0,3.0,3.33
+Female,(25-29),Burgas,8.0,2.0,7.0,5.67
+Female,(25-29),Dobrich,2.0,2.0,1.0,1.67
+Female,(25-29),Gabrovo,4.0,1.0,0.0,1.67
+Female,(25-29),Haskovo,2.0,4.0,2.0,2.67
+Female,(25-29),Kardzhali,1.0,2.0,2.0,1.67
+Female,(25-29),Kyustendil,1.0,2.0,1.0,1.33
+Female,(25-29),Lovech,3.0,3.0,1.0,2.33
+Female,(25-29),Montana,3.0,1.0,3.0,2.33
+Female,(25-29),Pazardzhik,2.0,0.0,3.0,1.67
+Female,(25-29),Pernik,0.0,1.0,2.0,1.0
+Female,(25-29),Pleven,3.0,2.0,2.0,2.33
+Female,(25-29),Plovdiv,13.0,11.0,10.0,11.33
+Female,(25-29),Razgrad,1.0,2.0,3.0,2.0
+Female,(25-29),Ruse,0.0,4.0,1.0,1.67
+Female,(25-29),Shumen,1.0,4.0,2.0,2.33
+Female,(25-29),Silistra,2.0,0.0,1.0,1.0
+Female,(25-29),Sliven,5.0,5.0,3.0,4.33
+Female,(25-29),Smolyan,0.0,2.0,0.0,0.67
+Female,(25-29),Sofia,3.0,0.0,3.0,2.0
+Female,(25-29),Sofia (stolitsa),12.0,12.0,11.0,11.67
+Female,(25-29),Stara Zagora,3.0,4.0,4.0,3.67
+Female,(25-29),Targovishte,2.0,0.0,0.0,0.67
+Female,(25-29),Varna,5.0,4.0,3.0,4.0
+Female,(25-29),Veliko Tarnovo,2.0,5.0,2.0,3.0
+Female,(25-29),Vidin,3.0,1.0,1.0,1.67
+Female,(25-29),Vratsa,3.0,3.0,3.0,3.0
+Female,(25-29),Yambol,1.0,3.0,0.0,1.33
+Female,(30-34),Blagoevgrad,5.0,8.0,4.0,5.67
+Female,(30-34),Burgas,8.0,9.0,5.0,7.33
+Female,(30-34),Dobrich,5.0,1.0,4.0,3.33
+Female,(30-34),Gabrovo,2.0,0.0,0.0,0.67
+Female,(30-34),Haskovo,6.0,3.0,7.0,5.33
+Female,(30-34),Kardzhali,3.0,5.0,5.0,4.33
+Female,(30-34),Kyustendil,2.0,2.0,3.0,2.33
+Female,(30-34),Lovech,2.0,2.0,4.0,2.67
+Female,(30-34),Montana,1.0,2.0,3.0,2.0
+Female,(30-34),Pazardzhik,3.0,0.0,8.0,3.67
+Female,(30-34),Pernik,3.0,1.0,3.0,2.33
+Female,(30-34),Pleven,6.0,2.0,4.0,4.0
+Female,(30-34),Plovdiv,8.0,9.0,8.0,8.33
+Female,(30-34),Razgrad,2.0,6.0,1.0,3.0
+Female,(30-34),Ruse,5.0,4.0,5.0,4.67
+Female,(30-34),Shumen,2.0,4.0,1.0,2.33
+Female,(30-34),Silistra,1.0,2.0,1.0,1.33
+Female,(30-34),Sliven,2.0,9.0,6.0,5.67
+Female,(30-34),Smolyan,3.0,2.0,2.0,2.33
+Female,(30-34),Sofia,4.0,7.0,4.0,5.0
+Female,(30-34),Sofia (stolitsa),28.0,26.0,23.0,25.67
+Female,(30-34),Stara Zagora,3.0,13.0,7.0,7.67
+Female,(30-34),Targovishte,2.0,2.0,4.0,2.67
+Female,(30-34),Varna,9.0,5.0,5.0,6.33
+Female,(30-34),Veliko Tarnovo,4.0,2.0,3.0,3.0
+Female,(30-34),Vidin,1.0,1.0,1.0,1.0
+Female,(30-34),Vratsa,5.0,4.0,3.0,4.0
+Female,(30-34),Yambol,2.0,1.0,3.0,2.0
+Female,(35-39),Blagoevgrad,6.0,8.0,5.0,6.33
+Female,(35-39),Burgas,10.0,16.0,17.0,14.33
+Female,(35-39),Dobrich,10.0,7.0,11.0,9.33
+Female,(35-39),Gabrovo,3.0,2.0,1.0,2.0
+Female,(35-39),Haskovo,10.0,6.0,10.0,8.67
+Female,(35-39),Kardzhali,6.0,6.0,5.0,5.67
+Female,(35-39),Kyustendil,3.0,6.0,5.0,4.67
+Female,(35-39),Lovech,5.0,5.0,2.0,4.0
+Female,(35-39),Montana,4.0,6.0,10.0,6.67
+Female,(35-39),Pazardzhik,9.0,11.0,6.0,8.67
+Female,(35-39),Pernik,2.0,1.0,2.0,1.67
+Female,(35-39),Pleven,9.0,5.0,9.0,7.67
+Female,(35-39),Plovdiv,23.0,18.0,18.0,19.67
+Female,(35-39),Razgrad,3.0,7.0,3.0,4.33
+Female,(35-39),Ruse,5.0,10.0,5.0,6.67
+Female,(35-39),Shumen,2.0,12.0,4.0,6.0
+Female,(35-39),Silistra,5.0,1.0,5.0,3.67
+Female,(35-39),Sliven,8.0,9.0,10.0,9.0
+Female,(35-39),Smolyan,1.0,2.0,7.0,3.33
+Female,(35-39),Sofia,6.0,5.0,10.0,7.0
+Female,(35-39),Sofia (stolitsa),44.0,41.0,45.0,43.33
+Female,(35-39),Stara Zagora,6.0,11.0,9.0,8.67
+Female,(35-39),Targovishte,9.0,4.0,3.0,5.33
+Female,(35-39),Varna,15.0,14.0,16.0,15.0
+Female,(35-39),Veliko Tarnovo,8.0,9.0,6.0,7.67
+Female,(35-39),Vidin,3.0,9.0,2.0,4.67
+Female,(35-39),Vratsa,4.0,4.0,7.0,5.0
+Female,(35-39),Yambol,4.0,4.0,8.0,5.33
+Female,(40-44),Blagoevgrad,10.0,14.0,3.0,9.0
+Female,(40-44),Burgas,27.0,29.0,29.0,28.33
+Female,(40-44),Dobrich,17.0,14.0,14.0,15.0
+Female,(40-44),Gabrovo,13.0,5.0,3.0,7.0
+Female,(40-44),Haskovo,13.0,11.0,11.0,11.67
+Female,(40-44),Kardzhali,5.0,6.0,7.0,6.0
+Female,(40-44),Kyustendil,9.0,6.0,12.0,9.0
+Female,(40-44),Lovech,6.0,9.0,5.0,6.67
+Female,(40-44),Montana,7.0,8.0,8.0,7.67
+Female,(40-44),Pazardzhik,12.0,14.0,16.0,14.0
+Female,(40-44),Pernik,13.0,6.0,6.0,8.33
+Female,(40-44),Pleven,12.0,13.0,14.0,13.0
+Female,(40-44),Plovdiv,40.0,39.0,42.0,40.33
+Female,(40-44),Razgrad,8.0,4.0,11.0,7.67
+Female,(40-44),Ruse,8.0,14.0,19.0,13.67
+Female,(40-44),Shumen,15.0,8.0,8.0,10.33
+Female,(40-44),Silistra,8.0,3.0,7.0,6.0
+Female,(40-44),Sliven,15.0,14.0,9.0,12.67
+Female,(40-44),Smolyan,5.0,5.0,4.0,4.67
+Female,(40-44),Sofia,18.0,16.0,14.0,16.0
+Female,(40-44),Sofia (stolitsa),83.0,106.0,75.0,88.0
+Female,(40-44),Stara Zagora,20.0,20.0,22.0,20.67
+Female,(40-44),Targovishte,6.0,10.0,9.0,8.33
+Female,(40-44),Varna,33.0,31.0,29.0,31.0
+Female,(40-44),Veliko Tarnovo,17.0,16.0,14.0,15.67
+Female,(40-44),Vidin,9.0,3.0,7.0,6.33
+Female,(40-44),Vratsa,14.0,13.0,20.0,15.67
+Female,(40-44),Yambol,9.0,9.0,6.0,8.0
+Female,(45-49),Blagoevgrad,23.0,30.0,19.0,24.0
+Female,(45-49),Burgas,43.0,43.0,42.0,42.67
+Female,(45-49),Dobrich,21.0,19.0,17.0,19.0
+Female,(45-49),Gabrovo,13.0,9.0,16.0,12.67
+Female,(45-49),Haskovo,15.0,21.0,24.0,20.0
+Female,(45-49),Kardzhali,10.0,15.0,5.0,10.0
+Female,(45-49),Kyustendil,14.0,14.0,9.0,12.33
+Female,(45-49),Lovech,14.0,5.0,17.0,12.0
+Female,(45-49),Montana,15.0,17.0,18.0,16.67
+Female,(45-49),Pazardzhik,35.0,18.0,24.0,25.67
+Female,(45-49),Pernik,14.0,13.0,11.0,12.67
+Female,(45-49),Pleven,20.0,24.0,16.0,20.0
+Female,(45-49),Plovdiv,39.0,48.0,57.0,48.0
+Female,(45-49),Razgrad,13.0,10.0,8.0,10.33
+Female,(45-49),Ruse,30.0,25.0,31.0,28.67
+Female,(45-49),Shumen,20.0,17.0,20.0,19.0
+Female,(45-49),Silistra,10.0,8.0,6.0,8.0
+Female,(45-49),Sliven,18.0,20.0,22.0,20.0
+Female,(45-49),Smolyan,7.0,12.0,11.0,10.0
+Female,(45-49),Sofia,28.0,31.0,20.0,26.33
+Female,(45-49),Sofia (stolitsa),123.0,117.0,112.0,117.33
+Female,(45-49),Stara Zagora,26.0,33.0,27.0,28.67
+Female,(45-49),Targovishte,12.0,10.0,15.0,12.33
+Female,(45-49),Varna,43.0,34.0,36.0,37.67
+Female,(45-49),Veliko Tarnovo,22.0,29.0,23.0,24.67
+Female,(45-49),Vidin,11.0,11.0,15.0,12.33
+Female,(45-49),Vratsa,23.0,31.0,15.0,23.0
+Female,(45-49),Yambol,17.0,14.0,14.0,15.0
+Female,(5-9),Blagoevgrad,0.0,1.0,0.0,0.33
+Female,(5-9),Burgas,1.0,1.0,2.0,1.33
+Female,(5-9),Dobrich,0.0,0.0,1.0,0.33
+Female,(5-9),Gabrovo,0.0,0.0,0.0,0.0
+Female,(5-9),Haskovo,0.0,0.0,2.0,0.67
+Female,(5-9),Kardzhali,2.0,0.0,1.0,1.0
+Female,(5-9),Kyustendil,0.0,0.0,0.0,0.0
+Female,(5-9),Lovech,0.0,1.0,0.0,0.33
+Female,(5-9),Montana,0.0,1.0,0.0,0.33
+Female,(5-9),Pazardzhik,2.0,2.0,1.0,1.67
+Female,(5-9),Pernik,0.0,0.0,1.0,0.33
+Female,(5-9),Pleven,0.0,0.0,1.0,0.33
+Female,(5-9),Plovdiv,0.0,3.0,0.0,1.0
+Female,(5-9),Razgrad,0.0,1.0,1.0,0.67
+Female,(5-9),Ruse,0.0,1.0,2.0,1.0
+Female,(5-9),Shumen,1.0,1.0,0.0,0.67
+Female,(5-9),Silistra,0.0,1.0,0.0,0.33
+Female,(5-9),Sliven,0.0,1.0,2.0,1.0
+Female,(5-9),Smolyan,0.0,0.0,1.0,0.33
+Female,(5-9),Sofia,0.0,1.0,0.0,0.33
+Female,(5-9),Sofia (stolitsa),2.0,6.0,5.0,4.33
+Female,(5-9),Stara Zagora,0.0,2.0,1.0,1.0
+Female,(5-9),Targovishte,0.0,1.0,0.0,0.33
+Female,(5-9),Varna,1.0,2.0,4.0,2.33
+Female,(5-9),Veliko Tarnovo,1.0,0.0,1.0,0.67
+Female,(5-9),Vidin,0.0,0.0,1.0,0.33
+Female,(5-9),Vratsa,0.0,0.0,0.0,0.0
+Female,(5-9),Yambol,0.0,0.0,0.0,0.0
+Female,(50-54),Blagoevgrad,49.0,38.0,43.0,43.33
+Female,(50-54),Burgas,51.0,47.0,56.0,51.33
+Female,(50-54),Dobrich,31.0,36.0,35.0,34.0
+Female,(50-54),Gabrovo,15.0,15.0,17.0,15.67
+Female,(50-54),Haskovo,35.0,31.0,27.0,31.0
+Female,(50-54),Kardzhali,15.0,20.0,18.0,17.67
+Female,(50-54),Kyustendil,18.0,20.0,14.0,17.33
+Female,(50-54),Lovech,21.0,24.0,14.0,19.67
+Female,(50-54),Montana,32.0,24.0,21.0,25.67
+Female,(50-54),Pazardzhik,31.0,37.0,38.0,35.33
+Female,(50-54),Pernik,16.0,14.0,23.0,17.67
+Female,(50-54),Pleven,36.0,35.0,41.0,37.33
+Female,(50-54),Plovdiv,93.0,80.0,83.0,85.33
+Female,(50-54),Razgrad,27.0,18.0,11.0,18.67
+Female,(50-54),Ruse,40.0,30.0,22.0,30.67
+Female,(50-54),Shumen,29.0,24.0,28.0,27.0
+Female,(50-54),Silistra,18.0,19.0,11.0,16.0
+Female,(50-54),Sliven,39.0,28.0,25.0,30.67
+Female,(50-54),Smolyan,18.0,15.0,21.0,18.0
+Female,(50-54),Sofia,35.0,32.0,34.0,33.67
+Female,(50-54),Sofia (stolitsa),152.0,172.0,127.0,150.33
+Female,(50-54),Stara Zagora,63.0,54.0,39.0,52.0
+Female,(50-54),Targovishte,11.0,26.0,18.0,18.33
+Female,(50-54),Varna,52.0,61.0,60.0,57.67
+Female,(50-54),Veliko Tarnovo,30.0,36.0,36.0,34.0
+Female,(50-54),Vidin,8.0,8.0,10.0,8.67
+Female,(50-54),Vratsa,29.0,25.0,22.0,25.33
+Female,(50-54),Yambol,15.0,20.0,12.0,15.67
+Female,(55-59),Blagoevgrad,62.0,54.0,71.0,62.33
+Female,(55-59),Burgas,86.0,99.0,86.0,90.33
+Female,(55-59),Dobrich,49.0,52.0,46.0,49.0
+Female,(55-59),Gabrovo,26.0,22.0,26.0,24.67
+Female,(55-59),Haskovo,33.0,43.0,62.0,46.0
+Female,(55-59),Kardzhali,22.0,21.0,21.0,21.33
+Female,(55-59),Kyustendil,34.0,34.0,36.0,34.67
+Female,(55-59),Lovech,42.0,28.0,26.0,32.0
+Female,(55-59),Montana,36.0,49.0,35.0,40.0
+Female,(55-59),Pazardzhik,75.0,62.0,62.0,66.33
+Female,(55-59),Pernik,32.0,40.0,38.0,36.67
+Female,(55-59),Pleven,53.0,58.0,58.0,56.33
+Female,(55-59),Plovdiv,160.0,150.0,141.0,150.33
+Female,(55-59),Razgrad,37.0,21.0,23.0,27.0
+Female,(55-59),Ruse,53.0,61.0,44.0,52.67
+Female,(55-59),Shumen,56.0,46.0,51.0,51.0
+Female,(55-59),Silistra,29.0,28.0,24.0,27.0
+Female,(55-59),Sliven,58.0,60.0,53.0,57.0
+Female,(55-59),Smolyan,22.0,21.0,19.0,20.67
+Female,(55-59),Sofia,72.0,75.0,65.0,70.67
+Female,(55-59),Sofia (stolitsa),284.0,264.0,232.0,260.0
+Female,(55-59),Stara Zagora,85.0,68.0,70.0,74.33
+Female,(55-59),Targovishte,32.0,35.0,35.0,34.0
+Female,(55-59),Varna,94.0,99.0,87.0,93.33
+Female,(55-59),Veliko Tarnovo,70.0,55.0,50.0,58.33
+Female,(55-59),Vidin,22.0,26.0,24.0,24.0
+Female,(55-59),Vratsa,53.0,48.0,38.0,46.33
+Female,(55-59),Yambol,24.0,28.0,29.0,27.0
+Female,(60-64),Blagoevgrad,78.0,98.0,96.0,90.67
+Female,(60-64),Burgas,139.0,137.0,149.0,141.67
+Female,(60-64),Dobrich,75.0,71.0,65.0,70.33
+Female,(60-64),Gabrovo,42.0,55.0,33.0,43.33
+Female,(60-64),Haskovo,94.0,75.0,82.0,83.67
+Female,(60-64),Kardzhali,46.0,38.0,49.0,44.33
+Female,(60-64),Kyustendil,49.0,53.0,55.0,52.33
+Female,(60-64),Lovech,50.0,60.0,49.0,53.0
+Female,(60-64),Montana,57.0,50.0,61.0,56.0
+Female,(60-64),Pazardzhik,104.0,115.0,117.0,112.0
+Female,(60-64),Pernik,60.0,51.0,54.0,55.0
+Female,(60-64),Pleven,106.0,98.0,80.0,94.67
+Female,(60-64),Plovdiv,225.0,212.0,199.0,212.0
+Female,(60-64),Razgrad,61.0,42.0,44.0,49.0
+Female,(60-64),Ruse,75.0,92.0,85.0,84.0
+Female,(60-64),Shumen,75.0,70.0,56.0,67.0
+Female,(60-64),Silistra,45.0,50.0,45.0,46.67
+Female,(60-64),Sliven,97.0,66.0,68.0,77.0
+Female,(60-64),Smolyan,39.0,43.0,42.0,41.33
+Female,(60-64),Sofia,78.0,93.0,86.0,85.67
+Female,(60-64),Sofia (stolitsa),423.0,434.0,393.0,416.67
+Female,(60-64),Stara Zagora,108.0,130.0,125.0,121.0
+Female,(60-64),Targovishte,39.0,39.0,51.0,43.0
+Female,(60-64),Varna,157.0,158.0,147.0,154.0
+Female,(60-64),Veliko Tarnovo,100.0,101.0,88.0,96.33
+Female,(60-64),Vidin,49.0,34.0,43.0,42.0
+Female,(60-64),Vratsa,84.0,80.0,68.0,77.33
+Female,(60-64),Yambol,50.0,45.0,40.0,45.0
+Female,(65-69),Blagoevgrad,125.0,137.0,129.0,130.33
+Female,(65-69),Burgas,216.0,213.0,209.0,212.67
+Female,(65-69),Dobrich,105.0,121.0,101.0,109.0
+Female,(65-69),Gabrovo,88.0,68.0,85.0,80.33
+Female,(65-69),Haskovo,129.0,131.0,127.0,129.0
+Female,(65-69),Kardzhali,68.0,64.0,68.0,66.67
+Female,(65-69),Kyustendil,81.0,85.0,63.0,76.33
+Female,(65-69),Lovech,69.0,101.0,87.0,85.67
+Female,(65-69),Montana,95.0,104.0,102.0,100.33
+Female,(65-69),Pazardzhik,137.0,134.0,143.0,138.0
+Female,(65-69),Pernik,97.0,75.0,85.0,85.67
+Female,(65-69),Pleven,188.0,171.0,131.0,163.33
+Female,(65-69),Plovdiv,343.0,304.0,312.0,319.67
+Female,(65-69),Razgrad,77.0,68.0,89.0,78.0
+Female,(65-69),Ruse,130.0,142.0,116.0,129.33
+Female,(65-69),Shumen,124.0,93.0,109.0,108.67
+Female,(65-69),Silistra,75.0,71.0,73.0,73.0
+Female,(65-69),Sliven,97.0,106.0,99.0,100.67
+Female,(65-69),Smolyan,63.0,60.0,46.0,56.33
+Female,(65-69),Sofia,142.0,144.0,144.0,143.33
+Female,(65-69),Sofia (stolitsa),646.0,636.0,663.0,648.33
+Female,(65-69),Stara Zagora,212.0,207.0,177.0,198.67
+Female,(65-69),Targovishte,74.0,74.0,81.0,76.33
+Female,(65-69),Varna,217.0,243.0,228.0,229.33
+Female,(65-69),Veliko Tarnovo,153.0,146.0,167.0,155.33
+Female,(65-69),Vidin,66.0,63.0,65.0,64.67
+Female,(65-69),Vratsa,128.0,102.0,107.0,112.33
+Female,(65-69),Yambol,74.0,71.0,82.0,75.67
+Female,(70-74),Blagoevgrad,197.0,183.0,181.0,187.0
+Female,(70-74),Burgas,281.0,278.0,280.0,279.67
+Female,(70-74),Dobrich,167.0,163.0,184.0,171.33
+Female,(70-74),Gabrovo,115.0,125.0,126.0,122.0
+Female,(70-74),Haskovo,195.0,162.0,146.0,167.67
+Female,(70-74),Kardzhali,102.0,92.0,89.0,94.33
+Female,(70-74),Kyustendil,116.0,113.0,114.0,114.33
+Female,(70-74),Lovech,144.0,126.0,130.0,133.33
+Female,(70-74),Montana,136.0,129.0,164.0,143.0
+Female,(70-74),Pazardzhik,202.0,195.0,231.0,209.33
+Female,(70-74),Pernik,115.0,106.0,139.0,120.0
+Female,(70-74),Pleven,238.0,223.0,236.0,232.33
+Female,(70-74),Plovdiv,435.0,469.0,492.0,465.33
+Female,(70-74),Razgrad,123.0,115.0,104.0,114.0
+Female,(70-74),Ruse,214.0,205.0,189.0,202.67
+Female,(70-74),Shumen,156.0,170.0,155.0,160.33
+Female,(70-74),Silistra,125.0,114.0,109.0,116.0
+Female,(70-74),Sliven,122.0,134.0,163.0,139.67
+Female,(70-74),Smolyan,88.0,74.0,88.0,83.33
+Female,(70-74),Sofia,198.0,224.0,226.0,216.0
+Female,(70-74),Sofia (stolitsa),808.0,838.0,855.0,833.67
+Female,(70-74),Stara Zagora,249.0,249.0,253.0,250.33
+Female,(70-74),Targovishte,101.0,98.0,116.0,105.0
+Female,(70-74),Varna,289.0,322.0,276.0,295.67
+Female,(70-74),Veliko Tarnovo,222.0,216.0,232.0,223.33
+Female,(70-74),Vidin,120.0,106.0,109.0,111.67
+Female,(70-74),Vratsa,180.0,191.0,165.0,178.67
+Female,(70-74),Yambol,99.0,99.0,113.0,103.67
+Female,(75-79),Blagoevgrad,302.0,302.0,284.0,296.0
+Female,(75-79),Burgas,376.0,373.0,381.0,376.67
+Female,(75-79),Dobrich,222.0,192.0,238.0,217.33
+Female,(75-79),Gabrovo,168.0,159.0,155.0,160.67
+Female,(75-79),Haskovo,241.0,214.0,236.0,230.33
+Female,(75-79),Kardzhali,168.0,149.0,141.0,152.67
+Female,(75-79),Kyustendil,179.0,174.0,152.0,168.33
+Female,(75-79),Lovech,198.0,160.0,188.0,182.0
+Female,(75-79),Montana,222.0,204.0,213.0,213.0
+Female,(75-79),Pazardzhik,299.0,243.0,292.0,278.0
+Female,(75-79),Pernik,177.0,172.0,158.0,169.0
+Female,(75-79),Pleven,347.0,323.0,339.0,336.33
+Female,(75-79),Plovdiv,681.0,682.0,623.0,662.0
+Female,(75-79),Razgrad,162.0,158.0,171.0,163.67
+Female,(75-79),Ruse,248.0,256.0,282.0,262.0
+Female,(75-79),Shumen,198.0,214.0,183.0,198.33
+Female,(75-79),Silistra,131.0,164.0,156.0,150.33
+Female,(75-79),Sliven,186.0,198.0,176.0,186.67
+Female,(75-79),Smolyan,120.0,121.0,107.0,116.0
+Female,(75-79),Sofia,268.0,296.0,263.0,275.67
+Female,(75-79),Sofia (stolitsa),936.0,929.0,994.0,953.0
+Female,(75-79),Stara Zagora,375.0,353.0,325.0,351.0
+Female,(75-79),Targovishte,153.0,149.0,160.0,154.0
+Female,(75-79),Varna,416.0,395.0,376.0,395.67
+Female,(75-79),Veliko Tarnovo,272.0,322.0,286.0,293.33
+Female,(75-79),Vidin,120.0,147.0,136.0,134.33
+Female,(75-79),Vratsa,223.0,196.0,225.0,214.67
+Female,(75-79),Yambol,135.0,142.0,144.0,140.33
+Female,(80-84),Blagoevgrad,439.0,405.0,415.0,419.67
+Female,(80-84),Burgas,563.0,530.0,509.0,534.0
+Female,(80-84),Dobrich,287.0,260.0,275.0,274.0
+Female,(80-84),Gabrovo,280.0,220.0,219.0,239.67
+Female,(80-84),Haskovo,427.0,393.0,402.0,407.33
+Female,(80-84),Kardzhali,203.0,192.0,225.0,206.67
+Female,(80-84),Kyustendil,265.0,236.0,226.0,242.33
+Female,(80-84),Lovech,291.0,251.0,264.0,268.67
+Female,(80-84),Montana,316.0,328.0,279.0,307.67
+Female,(80-84),Pazardzhik,470.0,394.0,372.0,412.0
+Female,(80-84),Pernik,236.0,238.0,236.0,236.67
+Female,(80-84),Pleven,494.0,442.0,471.0,469.0
+Female,(80-84),Plovdiv,1031.0,1009.0,961.0,1000.33
+Female,(80-84),Razgrad,180.0,187.0,176.0,181.0
+Female,(80-84),Ruse,400.0,380.0,388.0,389.33
+Female,(80-84),Shumen,244.0,267.0,256.0,255.67
+Female,(80-84),Silistra,215.0,186.0,179.0,193.33
+Female,(80-84),Sliven,305.0,277.0,272.0,284.67
+Female,(80-84),Smolyan,170.0,173.0,159.0,167.33
+Female,(80-84),Sofia,459.0,403.0,380.0,414.0
+Female,(80-84),Sofia (stolitsa),1409.0,1441.0,1379.0,1409.67
+Female,(80-84),Stara Zagora,550.0,561.0,534.0,548.33
+Female,(80-84),Targovishte,180.0,175.0,178.0,177.67
+Female,(80-84),Varna,625.0,593.0,558.0,592.0
+Female,(80-84),Veliko Tarnovo,501.0,435.0,368.0,434.67
+Female,(80-84),Vidin,241.0,214.0,205.0,220.0
+Female,(80-84),Vratsa,373.0,341.0,296.0,336.67
+Female,(80-84),Yambol,259.0,237.0,214.0,236.67
+Female,(85-89),Blagoevgrad,364.0,328.0,388.0,360.0
+Female,(85-89),Burgas,526.0,457.0,538.0,507.0
+Female,(85-89),Dobrich,223.0,257.0,212.0,230.67
+Female,(85-89),Gabrovo,243.0,217.0,202.0,220.67
+Female,(85-89),Haskovo,400.0,398.0,420.0,406.0
+Female,(85-89),Kardzhali,168.0,159.0,174.0,167.0
+Female,(85-89),Kyustendil,229.0,255.0,260.0,248.0
+Female,(85-89),Lovech,259.0,225.0,266.0,250.0
+Female,(85-89),Montana,257.0,286.0,278.0,273.67
+Female,(85-89),Pazardzhik,407.0,359.0,350.0,372.0
+Female,(85-89),Pernik,254.0,236.0,246.0,245.33
+Female,(85-89),Pleven,458.0,446.0,486.0,463.33
+Female,(85-89),Plovdiv,983.0,954.0,1070.0,1002.33
+Female,(85-89),Razgrad,139.0,174.0,146.0,153.0
+Female,(85-89),Ruse,365.0,364.0,347.0,358.67
+Female,(85-89),Shumen,227.0,225.0,219.0,223.67
+Female,(85-89),Silistra,114.0,160.0,156.0,143.33
+Female,(85-89),Sliven,239.0,249.0,259.0,249.0
+Female,(85-89),Smolyan,164.0,152.0,155.0,157.0
+Female,(85-89),Sofia,431.0,403.0,424.0,419.33
+Female,(85-89),Sofia (stolitsa),1574.0,1568.0,1631.0,1591.0
+Female,(85-89),Stara Zagora,539.0,516.0,522.0,525.67
+Female,(85-89),Targovishte,138.0,151.0,180.0,156.33
+Female,(85-89),Varna,546.0,584.0,621.0,583.67
+Female,(85-89),Veliko Tarnovo,394.0,408.0,451.0,417.67
+Female,(85-89),Vidin,174.0,193.0,191.0,186.0
+Female,(85-89),Vratsa,312.0,329.0,326.0,322.33
+Female,(85-89),Yambol,215.0,218.0,234.0,222.33
+Female,(90+),Blagoevgrad,229.0,203.0,250.0,227.33
+Female,(90+),Burgas,332.0,327.0,349.0,336.0
+Female,(90+),Dobrich,127.0,148.0,134.0,136.33
+Female,(90+),Gabrovo,162.0,161.0,148.0,157.0
+Female,(90+),Haskovo,248.0,256.0,242.0,248.67
+Female,(90+),Kardzhali,117.0,112.0,94.0,107.67
+Female,(90+),Kyustendil,193.0,168.0,145.0,168.67
+Female,(90+),Lovech,175.0,161.0,169.0,168.33
+Female,(90+),Montana,167.0,194.0,203.0,188.0
+Female,(90+),Pazardzhik,232.0,228.0,231.0,230.33
+Female,(90+),Pernik,134.0,160.0,148.0,147.33
+Female,(90+),Pleven,303.0,315.0,310.0,309.33
+Female,(90+),Plovdiv,654.0,706.0,683.0,681.0
+Female,(90+),Razgrad,75.0,93.0,97.0,88.33
+Female,(90+),Ruse,207.0,207.0,216.0,210.0
+Female,(90+),Shumen,158.0,167.0,132.0,152.33
+Female,(90+),Silistra,63.0,82.0,85.0,76.67
+Female,(90+),Sliven,146.0,155.0,142.0,147.67
+Female,(90+),Smolyan,117.0,105.0,104.0,108.67
+Female,(90+),Sofia,253.0,256.0,257.0,255.33
+Female,(90+),Sofia (stolitsa),1229.0,1237.0,1360.0,1275.33
+Female,(90+),Stara Zagora,289.0,296.0,352.0,312.33
+Female,(90+),Targovishte,100.0,103.0,86.0,96.33
+Female,(90+),Varna,339.0,390.0,352.0,360.33
+Female,(90+),Veliko Tarnovo,234.0,245.0,251.0,243.33
+Female,(90+),Vidin,145.0,144.0,145.0,144.67
+Female,(90+),Vratsa,212.0,195.0,180.0,195.67
+Female,(90+),Yambol,104.0,146.0,109.0,119.67
+Male,(0-4),Blagoevgrad,6.0,7.0,4.0,5.67
+Male,(0-4),Burgas,17.0,12.0,20.0,16.33
+Male,(0-4),Dobrich,11.0,6.0,6.0,7.67
+Male,(0-4),Gabrovo,3.0,3.0,1.0,2.33
+Male,(0-4),Haskovo,7.0,6.0,11.0,8.0
+Male,(0-4),Kardzhali,5.0,3.0,6.0,4.67
+Male,(0-4),Kyustendil,4.0,4.0,2.0,3.33
+Male,(0-4),Lovech,6.0,6.0,3.0,5.0
+Male,(0-4),Montana,7.0,1.0,3.0,3.67
+Male,(0-4),Pazardzhik,16.0,13.0,10.0,13.0
+Male,(0-4),Pernik,4.0,5.0,6.0,5.0
+Male,(0-4),Pleven,16.0,15.0,13.0,14.67
+Male,(0-4),Plovdiv,29.0,36.0,19.0,28.0
+Male,(0-4),Razgrad,5.0,11.0,4.0,6.67
+Male,(0-4),Ruse,15.0,7.0,4.0,8.67
+Male,(0-4),Shumen,6.0,5.0,2.0,4.33
+Male,(0-4),Silistra,7.0,2.0,3.0,4.0
+Male,(0-4),Sliven,23.0,12.0,18.0,17.67
+Male,(0-4),Smolyan,4.0,1.0,1.0,2.0
+Male,(0-4),Sofia,8.0,10.0,4.0,7.33
+Male,(0-4),Sofia (stolitsa),28.0,19.0,32.0,26.33
+Male,(0-4),Stara Zagora,13.0,17.0,15.0,15.0
+Male,(0-4),Targovishte,5.0,8.0,6.0,6.33
+Male,(0-4),Varna,12.0,13.0,15.0,13.33
+Male,(0-4),Veliko Tarnovo,7.0,4.0,7.0,6.0
+Male,(0-4),Vidin,1.0,4.0,2.0,2.33
+Male,(0-4),Vratsa,6.0,7.0,1.0,4.67
+Male,(0-4),Yambol,7.0,8.0,6.0,7.0
+Male,(10-14),Blagoevgrad,1.0,2.0,3.0,2.0
+Male,(10-14),Burgas,2.0,5.0,2.0,3.0
+Male,(10-14),Dobrich,1.0,0.0,0.0,0.33
+Male,(10-14),Gabrovo,2.0,0.0,0.0,0.67
+Male,(10-14),Haskovo,1.0,1.0,1.0,1.0
+Male,(10-14),Kardzhali,2.0,0.0,0.0,0.67
+Male,(10-14),Kyustendil,0.0,2.0,2.0,1.33
+Male,(10-14),Lovech,1.0,0.0,2.0,1.0
+Male,(10-14),Montana,0.0,1.0,1.0,0.67
+Male,(10-14),Pazardzhik,3.0,4.0,0.0,2.33
+Male,(10-14),Pernik,1.0,5.0,1.0,2.33
+Male,(10-14),Pleven,1.0,3.0,1.0,1.67
+Male,(10-14),Plovdiv,4.0,2.0,0.0,2.0
+Male,(10-14),Razgrad,1.0,1.0,0.0,0.67
+Male,(10-14),Ruse,0.0,2.0,0.0,0.67
+Male,(10-14),Shumen,1.0,1.0,1.0,1.0
+Male,(10-14),Silistra,2.0,2.0,0.0,1.33
+Male,(10-14),Sliven,2.0,1.0,3.0,2.0
+Male,(10-14),Smolyan,1.0,2.0,1.0,1.33
+Male,(10-14),Sofia,0.0,1.0,2.0,1.0
+Male,(10-14),Sofia (stolitsa),6.0,1.0,5.0,4.0
+Male,(10-14),Stara Zagora,1.0,4.0,5.0,3.33
+Male,(10-14),Targovishte,0.0,0.0,1.0,0.33
+Male,(10-14),Varna,1.0,2.0,4.0,2.33
+Male,(10-14),Veliko Tarnovo,1.0,3.0,1.0,1.67
+Male,(10-14),Vidin,0.0,0.0,0.0,0.0
+Male,(10-14),Vratsa,1.0,3.0,1.0,1.67
+Male,(10-14),Yambol,0.0,2.0,0.0,0.67
+Male,(15-19),Blagoevgrad,2.0,3.0,2.0,2.33
+Male,(15-19),Burgas,5.0,5.0,6.0,5.33
+Male,(15-19),Dobrich,3.0,5.0,5.0,4.33
+Male,(15-19),Gabrovo,0.0,4.0,1.0,1.67
+Male,(15-19),Haskovo,5.0,2.0,3.0,3.33
+Male,(15-19),Kardzhali,2.0,2.0,2.0,2.0
+Male,(15-19),Kyustendil,3.0,1.0,1.0,1.67
+Male,(15-19),Lovech,3.0,4.0,2.0,3.0
+Male,(15-19),Montana,6.0,1.0,3.0,3.33
+Male,(15-19),Pazardzhik,3.0,3.0,5.0,3.67
+Male,(15-19),Pernik,2.0,3.0,1.0,2.0
+Male,(15-19),Pleven,6.0,4.0,3.0,4.33
+Male,(15-19),Plovdiv,8.0,5.0,13.0,8.67
+Male,(15-19),Razgrad,1.0,2.0,5.0,2.67
+Male,(15-19),Ruse,2.0,3.0,4.0,3.0
+Male,(15-19),Shumen,3.0,1.0,4.0,2.67
+Male,(15-19),Silistra,0.0,2.0,2.0,1.33
+Male,(15-19),Sliven,2.0,4.0,4.0,3.33
+Male,(15-19),Smolyan,0.0,0.0,2.0,0.67
+Male,(15-19),Sofia,9.0,3.0,4.0,5.33
+Male,(15-19),Sofia (stolitsa),11.0,9.0,12.0,10.67
+Male,(15-19),Stara Zagora,5.0,10.0,10.0,8.33
+Male,(15-19),Targovishte,2.0,1.0,3.0,2.0
+Male,(15-19),Varna,3.0,8.0,5.0,5.33
+Male,(15-19),Veliko Tarnovo,6.0,2.0,2.0,3.33
+Male,(15-19),Vidin,2.0,0.0,2.0,1.33
+Male,(15-19),Vratsa,5.0,7.0,3.0,5.0
+Male,(15-19),Yambol,1.0,3.0,3.0,2.33
+Male,(20-24),Blagoevgrad,9.0,2.0,3.0,4.67
+Male,(20-24),Burgas,7.0,5.0,13.0,8.33
+Male,(20-24),Dobrich,8.0,4.0,2.0,4.67
+Male,(20-24),Gabrovo,0.0,4.0,3.0,2.33
+Male,(20-24),Haskovo,2.0,6.0,6.0,4.67
+Male,(20-24),Kardzhali,2.0,1.0,2.0,1.67
+Male,(20-24),Kyustendil,2.0,3.0,1.0,2.0
+Male,(20-24),Lovech,5.0,2.0,3.0,3.33
+Male,(20-24),Montana,2.0,0.0,2.0,1.33
+Male,(20-24),Pazardzhik,6.0,3.0,9.0,6.0
+Male,(20-24),Pernik,1.0,3.0,3.0,2.33
+Male,(20-24),Pleven,6.0,4.0,5.0,5.0
+Male,(20-24),Plovdiv,8.0,8.0,15.0,10.33
+Male,(20-24),Razgrad,1.0,3.0,2.0,2.0
+Male,(20-24),Ruse,2.0,6.0,2.0,3.33
+Male,(20-24),Shumen,3.0,4.0,3.0,3.33
+Male,(20-24),Silistra,3.0,2.0,6.0,3.67
+Male,(20-24),Sliven,6.0,5.0,4.0,5.0
+Male,(20-24),Smolyan,1.0,3.0,1.0,1.67
+Male,(20-24),Sofia,4.0,6.0,9.0,6.33
+Male,(20-24),Sofia (stolitsa),29.0,16.0,19.0,21.33
+Male,(20-24),Stara Zagora,2.0,8.0,7.0,5.67
+Male,(20-24),Targovishte,2.0,3.0,1.0,2.0
+Male,(20-24),Varna,9.0,8.0,8.0,8.33
+Male,(20-24),Veliko Tarnovo,5.0,3.0,5.0,4.33
+Male,(20-24),Vidin,2.0,1.0,1.0,1.33
+Male,(20-24),Vratsa,3.0,4.0,3.0,3.33
+Male,(20-24),Yambol,4.0,0.0,1.0,1.67
+Male,(25-29),Blagoevgrad,7.0,8.0,7.0,7.33
+Male,(25-29),Burgas,14.0,13.0,13.0,13.33
+Male,(25-29),Dobrich,6.0,4.0,8.0,6.0
+Male,(25-29),Gabrovo,5.0,3.0,2.0,3.33
+Male,(25-29),Haskovo,9.0,6.0,4.0,6.33
+Male,(25-29),Kardzhali,2.0,5.0,2.0,3.0
+Male,(25-29),Kyustendil,2.0,4.0,6.0,4.0
+Male,(25-29),Lovech,2.0,6.0,4.0,4.0
+Male,(25-29),Montana,5.0,3.0,4.0,4.0
+Male,(25-29),Pazardzhik,14.0,7.0,5.0,8.67
+Male,(25-29),Pernik,2.0,3.0,3.0,2.67
+Male,(25-29),Pleven,2.0,3.0,13.0,6.0
+Male,(25-29),Plovdiv,24.0,22.0,14.0,20.0
+Male,(25-29),Razgrad,3.0,2.0,5.0,3.33
+Male,(25-29),Ruse,6.0,5.0,7.0,6.0
+Male,(25-29),Shumen,2.0,2.0,6.0,3.33
+Male,(25-29),Silistra,3.0,7.0,3.0,4.33
+Male,(25-29),Sliven,9.0,8.0,4.0,7.0
+Male,(25-29),Smolyan,2.0,3.0,8.0,4.33
+Male,(25-29),Sofia,11.0,14.0,5.0,10.0
+Male,(25-29),Sofia (stolitsa),44.0,40.0,33.0,39.0
+Male,(25-29),Stara Zagora,14.0,14.0,10.0,12.67
+Male,(25-29),Targovishte,2.0,3.0,5.0,3.33
+Male,(25-29),Varna,15.0,14.0,12.0,13.67
+Male,(25-29),Veliko Tarnovo,8.0,8.0,7.0,7.67
+Male,(25-29),Vidin,4.0,3.0,4.0,3.67
+Male,(25-29),Vratsa,8.0,5.0,8.0,7.0
+Male,(25-29),Yambol,4.0,4.0,3.0,3.67
+Male,(30-34),Blagoevgrad,17.0,12.0,9.0,12.67
+Male,(30-34),Burgas,15.0,15.0,17.0,15.67
+Male,(30-34),Dobrich,10.0,10.0,11.0,10.33
+Male,(30-34),Gabrovo,2.0,2.0,2.0,2.0
+Male,(30-34),Haskovo,8.0,12.0,8.0,9.33
+Male,(30-34),Kardzhali,9.0,6.0,6.0,7.0
+Male,(30-34),Kyustendil,6.0,5.0,4.0,5.0
+Male,(30-34),Lovech,7.0,9.0,6.0,7.33
+Male,(30-34),Montana,9.0,5.0,9.0,7.67
+Male,(30-34),Pazardzhik,14.0,15.0,12.0,13.67
+Male,(30-34),Pernik,6.0,3.0,7.0,5.33
+Male,(30-34),Pleven,11.0,6.0,6.0,7.67
+Male,(30-34),Plovdiv,34.0,34.0,26.0,31.33
+Male,(30-34),Razgrad,4.0,5.0,3.0,4.0
+Male,(30-34),Ruse,13.0,11.0,18.0,14.0
+Male,(30-34),Shumen,11.0,12.0,10.0,11.0
+Male,(30-34),Silistra,1.0,4.0,6.0,3.67
+Male,(30-34),Sliven,16.0,11.0,8.0,11.67
+Male,(30-34),Smolyan,3.0,7.0,1.0,3.67
+Male,(30-34),Sofia,13.0,14.0,11.0,12.67
+Male,(30-34),Sofia (stolitsa),51.0,79.0,67.0,65.67
+Male,(30-34),Stara Zagora,14.0,14.0,13.0,13.67
+Male,(30-34),Targovishte,4.0,6.0,1.0,3.67
+Male,(30-34),Varna,21.0,24.0,24.0,23.0
+Male,(30-34),Veliko Tarnovo,4.0,10.0,10.0,8.0
+Male,(30-34),Vidin,2.0,9.0,3.0,4.67
+Male,(30-34),Vratsa,11.0,9.0,10.0,10.0
+Male,(30-34),Yambol,3.0,6.0,5.0,4.67
+Male,(35-39),Blagoevgrad,17.0,16.0,19.0,17.33
+Male,(35-39),Burgas,23.0,28.0,25.0,25.33
+Male,(35-39),Dobrich,15.0,18.0,14.0,15.67
+Male,(35-39),Gabrovo,6.0,7.0,5.0,6.0
+Male,(35-39),Haskovo,15.0,16.0,16.0,15.67
+Male,(35-39),Kardzhali,5.0,14.0,8.0,9.0
+Male,(35-39),Kyustendil,14.0,9.0,16.0,13.0
+Male,(35-39),Lovech,10.0,7.0,11.0,9.33
+Male,(35-39),Montana,8.0,9.0,9.0,8.67
+Male,(35-39),Pazardzhik,10.0,16.0,28.0,18.0
+Male,(35-39),Pernik,10.0,7.0,18.0,11.67
+Male,(35-39),Pleven,14.0,14.0,20.0,16.0
+Male,(35-39),Plovdiv,45.0,54.0,61.0,53.33
+Male,(35-39),Razgrad,9.0,6.0,11.0,8.67
+Male,(35-39),Ruse,12.0,15.0,15.0,14.0
+Male,(35-39),Shumen,5.0,13.0,10.0,9.33
+Male,(35-39),Silistra,5.0,6.0,11.0,7.33
+Male,(35-39),Sliven,19.0,28.0,16.0,21.0
+Male,(35-39),Smolyan,7.0,10.0,3.0,6.67
+Male,(35-39),Sofia,15.0,27.0,17.0,19.67
+Male,(35-39),Sofia (stolitsa),110.0,88.0,106.0,101.33
+Male,(35-39),Stara Zagora,30.0,25.0,23.0,26.0
+Male,(35-39),Targovishte,10.0,11.0,7.0,9.33
+Male,(35-39),Varna,37.0,33.0,40.0,36.67
+Male,(35-39),Veliko Tarnovo,16.0,17.0,9.0,14.0
+Male,(35-39),Vidin,4.0,7.0,4.0,5.0
+Male,(35-39),Vratsa,21.0,9.0,6.0,12.0
+Male,(35-39),Yambol,10.0,8.0,11.0,9.67
+Male,(40-44),Blagoevgrad,44.0,38.0,39.0,40.33
+Male,(40-44),Burgas,53.0,50.0,63.0,55.33
+Male,(40-44),Dobrich,20.0,16.0,29.0,21.67
+Male,(40-44),Gabrovo,16.0,15.0,13.0,14.67
+Male,(40-44),Haskovo,25.0,37.0,33.0,31.67
+Male,(40-44),Kardzhali,11.0,16.0,17.0,14.67
+Male,(40-44),Kyustendil,17.0,26.0,18.0,20.33
+Male,(40-44),Lovech,19.0,16.0,14.0,16.33
+Male,(40-44),Montana,16.0,20.0,19.0,18.33
+Male,(40-44),Pazardzhik,28.0,24.0,26.0,26.0
+Male,(40-44),Pernik,28.0,13.0,17.0,19.33
+Male,(40-44),Pleven,23.0,41.0,28.0,30.67
+Male,(40-44),Plovdiv,87.0,69.0,77.0,77.67
+Male,(40-44),Razgrad,16.0,8.0,16.0,13.33
+Male,(40-44),Ruse,32.0,24.0,28.0,28.0
+Male,(40-44),Shumen,15.0,21.0,15.0,17.0
+Male,(40-44),Silistra,20.0,13.0,12.0,15.0
+Male,(40-44),Sliven,41.0,22.0,32.0,31.67
+Male,(40-44),Smolyan,11.0,9.0,13.0,11.0
+Male,(40-44),Sofia,34.0,37.0,34.0,35.0
+Male,(40-44),Sofia (stolitsa),173.0,176.0,173.0,174.0
+Male,(40-44),Stara Zagora,49.0,29.0,34.0,37.33
+Male,(40-44),Targovishte,15.0,14.0,20.0,16.33
+Male,(40-44),Varna,58.0,55.0,40.0,51.0
+Male,(40-44),Veliko Tarnovo,32.0,27.0,27.0,28.67
+Male,(40-44),Vidin,17.0,21.0,8.0,15.33
+Male,(40-44),Vratsa,28.0,22.0,14.0,21.33
+Male,(40-44),Yambol,11.0,23.0,15.0,16.33
+Male,(45-49),Blagoevgrad,74.0,56.0,62.0,64.0
+Male,(45-49),Burgas,93.0,68.0,97.0,86.0
+Male,(45-49),Dobrich,53.0,49.0,46.0,49.33
+Male,(45-49),Gabrovo,25.0,17.0,21.0,21.0
+Male,(45-49),Haskovo,47.0,42.0,49.0,46.0
+Male,(45-49),Kardzhali,26.0,28.0,27.0,27.0
+Male,(45-49),Kyustendil,27.0,32.0,37.0,32.0
+Male,(45-49),Lovech,41.0,26.0,35.0,34.0
+Male,(45-49),Montana,29.0,38.0,47.0,38.0
+Male,(45-49),Pazardzhik,49.0,56.0,58.0,54.33
+Male,(45-49),Pernik,34.0,33.0,45.0,37.33
+Male,(45-49),Pleven,53.0,67.0,51.0,57.0
+Male,(45-49),Plovdiv,132.0,148.0,137.0,139.0
+Male,(45-49),Razgrad,36.0,35.0,35.0,35.33
+Male,(45-49),Ruse,44.0,34.0,39.0,39.0
+Male,(45-49),Shumen,30.0,45.0,44.0,39.67
+Male,(45-49),Silistra,39.0,31.0,14.0,28.0
+Male,(45-49),Sliven,54.0,40.0,48.0,47.33
+Male,(45-49),Smolyan,18.0,18.0,33.0,23.0
+Male,(45-49),Sofia,63.0,63.0,58.0,61.33
+Male,(45-49),Sofia (stolitsa),263.0,243.0,270.0,258.67
+Male,(45-49),Stara Zagora,56.0,69.0,86.0,70.33
+Male,(45-49),Targovishte,21.0,26.0,23.0,23.33
+Male,(45-49),Varna,81.0,90.0,88.0,86.33
+Male,(45-49),Veliko Tarnovo,43.0,48.0,51.0,47.33
+Male,(45-49),Vidin,23.0,24.0,23.0,23.33
+Male,(45-49),Vratsa,51.0,53.0,44.0,49.33
+Male,(45-49),Yambol,29.0,36.0,32.0,32.33
+Male,(5-9),Blagoevgrad,1.0,3.0,1.0,1.67
+Male,(5-9),Burgas,5.0,5.0,3.0,4.33
+Male,(5-9),Dobrich,0.0,2.0,2.0,1.33
+Male,(5-9),Gabrovo,0.0,1.0,0.0,0.33
+Male,(5-9),Haskovo,2.0,0.0,0.0,0.67
+Male,(5-9),Kardzhali,0.0,2.0,1.0,1.0
+Male,(5-9),Kyustendil,0.0,0.0,0.0,0.0
+Male,(5-9),Lovech,0.0,1.0,0.0,0.33
+Male,(5-9),Montana,1.0,0.0,0.0,0.33
+Male,(5-9),Pazardzhik,0.0,2.0,0.0,0.67
+Male,(5-9),Pernik,0.0,2.0,0.0,0.67
+Male,(5-9),Pleven,1.0,2.0,3.0,2.0
+Male,(5-9),Plovdiv,4.0,4.0,2.0,3.33
+Male,(5-9),Razgrad,0.0,1.0,0.0,0.33
+Male,(5-9),Ruse,0.0,0.0,0.0,0.0
+Male,(5-9),Shumen,1.0,1.0,1.0,1.0
+Male,(5-9),Silistra,0.0,0.0,0.0,0.0
+Male,(5-9),Sliven,2.0,0.0,3.0,1.67
+Male,(5-9),Smolyan,0.0,0.0,0.0,0.0
+Male,(5-9),Sofia,0.0,1.0,0.0,0.33
+Male,(5-9),Sofia (stolitsa),9.0,3.0,1.0,4.33
+Male,(5-9),Stara Zagora,2.0,1.0,1.0,1.33
+Male,(5-9),Targovishte,3.0,2.0,2.0,2.33
+Male,(5-9),Varna,3.0,2.0,0.0,1.67
+Male,(5-9),Veliko Tarnovo,0.0,0.0,2.0,0.67
+Male,(5-9),Vidin,1.0,0.0,0.0,0.33
+Male,(5-9),Vratsa,1.0,0.0,0.0,0.33
+Male,(5-9),Yambol,0.0,0.0,1.0,0.33
+Male,(50-54),Blagoevgrad,108.0,115.0,99.0,107.33
+Male,(50-54),Burgas,148.0,124.0,126.0,132.67
+Male,(50-54),Dobrich,76.0,70.0,62.0,69.33
+Male,(50-54),Gabrovo,39.0,34.0,33.0,35.33
+Male,(50-54),Haskovo,90.0,81.0,90.0,87.0
+Male,(50-54),Kardzhali,43.0,55.0,45.0,47.67
+Male,(50-54),Kyustendil,56.0,47.0,52.0,51.67
+Male,(50-54),Lovech,46.0,40.0,46.0,44.0
+Male,(50-54),Montana,48.0,46.0,50.0,48.0
+Male,(50-54),Pazardzhik,97.0,81.0,84.0,87.33
+Male,(50-54),Pernik,53.0,54.0,47.0,51.33
+Male,(50-54),Pleven,55.0,85.0,65.0,68.33
+Male,(50-54),Plovdiv,206.0,225.0,246.0,225.67
+Male,(50-54),Razgrad,54.0,42.0,39.0,45.0
+Male,(50-54),Ruse,78.0,86.0,74.0,79.33
+Male,(50-54),Shumen,62.0,86.0,53.0,67.0
+Male,(50-54),Silistra,50.0,45.0,44.0,46.33
+Male,(50-54),Sliven,60.0,67.0,65.0,64.0
+Male,(50-54),Smolyan,37.0,33.0,41.0,37.0
+Male,(50-54),Sofia,103.0,102.0,90.0,98.33
+Male,(50-54),Sofia (stolitsa),333.0,274.0,302.0,303.0
+Male,(50-54),Stara Zagora,117.0,105.0,95.0,105.67
+Male,(50-54),Targovishte,44.0,46.0,45.0,45.0
+Male,(50-54),Varna,131.0,121.0,144.0,132.0
+Male,(50-54),Veliko Tarnovo,87.0,69.0,79.0,78.33
+Male,(50-54),Vidin,42.0,39.0,43.0,41.33
+Male,(50-54),Vratsa,71.0,71.0,68.0,70.0
+Male,(50-54),Yambol,42.0,41.0,35.0,39.33
+Male,(55-59),Blagoevgrad,175.0,163.0,151.0,163.0
+Male,(55-59),Burgas,208.0,216.0,194.0,206.0
+Male,(55-59),Dobrich,121.0,111.0,119.0,117.0
+Male,(55-59),Gabrovo,57.0,50.0,66.0,57.67
+Male,(55-59),Haskovo,133.0,148.0,132.0,137.67
+Male,(55-59),Kardzhali,70.0,68.0,72.0,70.0
+Male,(55-59),Kyustendil,85.0,96.0,85.0,88.67
+Male,(55-59),Lovech,77.0,85.0,66.0,76.0
+Male,(55-59),Montana,80.0,96.0,89.0,88.33
+Male,(55-59),Pazardzhik,164.0,154.0,155.0,157.67
+Male,(55-59),Pernik,91.0,96.0,80.0,89.0
+Male,(55-59),Pleven,156.0,129.0,126.0,137.0
+Male,(55-59),Plovdiv,305.0,358.0,309.0,324.0
+Male,(55-59),Razgrad,78.0,70.0,65.0,71.0
+Male,(55-59),Ruse,126.0,137.0,114.0,125.67
+Male,(55-59),Shumen,85.0,103.0,109.0,99.0
+Male,(55-59),Silistra,78.0,65.0,75.0,72.67
+Male,(55-59),Sliven,101.0,107.0,105.0,104.33
+Male,(55-59),Smolyan,84.0,71.0,67.0,74.0
+Male,(55-59),Sofia,160.0,140.0,128.0,142.67
+Male,(55-59),Sofia (stolitsa),479.0,495.0,466.0,480.0
+Male,(55-59),Stara Zagora,160.0,166.0,177.0,167.67
+Male,(55-59),Targovishte,48.0,64.0,66.0,59.33
+Male,(55-59),Varna,221.0,235.0,202.0,219.33
+Male,(55-59),Veliko Tarnovo,140.0,136.0,129.0,135.0
+Male,(55-59),Vidin,43.0,59.0,51.0,51.0
+Male,(55-59),Vratsa,120.0,109.0,121.0,116.67
+Male,(55-59),Yambol,63.0,82.0,75.0,73.33
+Male,(60-64),Blagoevgrad,213.0,209.0,216.0,212.67
+Male,(60-64),Burgas,287.0,318.0,296.0,300.33
+Male,(60-64),Dobrich,177.0,156.0,166.0,166.33
+Male,(60-64),Gabrovo,103.0,87.0,97.0,95.67
+Male,(60-64),Haskovo,190.0,196.0,191.0,192.33
+Male,(60-64),Kardzhali,102.0,95.0,113.0,103.33
+Male,(60-64),Kyustendil,148.0,127.0,140.0,138.33
+Male,(60-64),Lovech,122.0,116.0,123.0,120.33
+Male,(60-64),Montana,127.0,112.0,121.0,120.0
+Male,(60-64),Pazardzhik,216.0,209.0,226.0,217.0
+Male,(60-64),Pernik,120.0,130.0,128.0,126.0
+Male,(60-64),Pleven,196.0,190.0,226.0,204.0
+Male,(60-64),Plovdiv,480.0,501.0,451.0,477.33
+Male,(60-64),Razgrad,131.0,104.0,93.0,109.33
+Male,(60-64),Ruse,191.0,180.0,193.0,188.0
+Male,(60-64),Shumen,141.0,148.0,166.0,151.67
+Male,(60-64),Silistra,101.0,104.0,99.0,101.33
+Male,(60-64),Sliven,172.0,164.0,159.0,165.0
+Male,(60-64),Smolyan,102.0,94.0,96.0,97.33
+Male,(60-64),Sofia,223.0,219.0,222.0,221.33
+Male,(60-64),Sofia (stolitsa),698.0,703.0,736.0,712.33
+Male,(60-64),Stara Zagora,236.0,273.0,240.0,249.67
+Male,(60-64),Targovishte,100.0,76.0,101.0,92.33
+Male,(60-64),Varna,306.0,314.0,307.0,309.0
+Male,(60-64),Veliko Tarnovo,223.0,214.0,185.0,207.33
+Male,(60-64),Vidin,80.0,89.0,82.0,83.67
+Male,(60-64),Vratsa,125.0,147.0,155.0,142.33
+Male,(60-64),Yambol,126.0,117.0,98.0,113.67
+Male,(65-69),Blagoevgrad,279.0,310.0,256.0,281.67
+Male,(65-69),Burgas,415.0,392.0,394.0,400.33
+Male,(65-69),Dobrich,241.0,232.0,248.0,240.33
+Male,(65-69),Gabrovo,157.0,144.0,131.0,144.0
+Male,(65-69),Haskovo,298.0,235.0,275.0,269.33
+Male,(65-69),Kardzhali,111.0,119.0,125.0,118.33
+Male,(65-69),Kyustendil,192.0,166.0,181.0,179.67
+Male,(65-69),Lovech,176.0,157.0,152.0,161.67
+Male,(65-69),Montana,198.0,182.0,175.0,185.0
+Male,(65-69),Pazardzhik,262.0,260.0,267.0,263.0
+Male,(65-69),Pernik,153.0,138.0,165.0,152.0
+Male,(65-69),Pleven,322.0,313.0,291.0,308.67
+Male,(65-69),Plovdiv,665.0,584.0,625.0,624.67
+Male,(65-69),Razgrad,136.0,140.0,162.0,146.0
+Male,(65-69),Ruse,238.0,291.0,275.0,268.0
+Male,(65-69),Shumen,206.0,185.0,205.0,198.67
+Male,(65-69),Silistra,146.0,129.0,134.0,136.33
+Male,(65-69),Sliven,202.0,226.0,178.0,202.0
+Male,(65-69),Smolyan,125.0,131.0,119.0,125.0
+Male,(65-69),Sofia,313.0,289.0,273.0,291.67
+Male,(65-69),Sofia (stolitsa),930.0,967.0,957.0,951.33
+Male,(65-69),Stara Zagora,329.0,320.0,356.0,335.0
+Male,(65-69),Targovishte,141.0,88.0,106.0,111.67
+Male,(65-69),Varna,391.0,414.0,425.0,410.0
+Male,(65-69),Veliko Tarnovo,270.0,280.0,265.0,271.67
+Male,(65-69),Vidin,130.0,105.0,114.0,116.33
+Male,(65-69),Vratsa,238.0,220.0,217.0,225.0
+Male,(65-69),Yambol,160.0,146.0,153.0,153.0
+Male,(70-74),Blagoevgrad,293.0,286.0,296.0,291.67
+Male,(70-74),Burgas,434.0,403.0,430.0,422.33
+Male,(70-74),Dobrich,218.0,226.0,223.0,222.33
+Male,(70-74),Gabrovo,158.0,200.0,167.0,175.0
+Male,(70-74),Haskovo,254.0,228.0,250.0,244.0
+Male,(70-74),Kardzhali,142.0,122.0,135.0,133.0
+Male,(70-74),Kyustendil,187.0,155.0,172.0,171.33
+Male,(70-74),Lovech,201.0,203.0,210.0,204.67
+Male,(70-74),Montana,205.0,208.0,217.0,210.0
+Male,(70-74),Pazardzhik,261.0,302.0,303.0,288.67
+Male,(70-74),Pernik,156.0,165.0,159.0,160.0
+Male,(70-74),Pleven,319.0,366.0,351.0,345.33
+Male,(70-74),Plovdiv,645.0,676.0,683.0,668.0
+Male,(70-74),Razgrad,138.0,153.0,161.0,150.67
+Male,(70-74),Ruse,256.0,299.0,298.0,284.33
+Male,(70-74),Shumen,194.0,215.0,253.0,220.67
+Male,(70-74),Silistra,171.0,178.0,176.0,175.0
+Male,(70-74),Sliven,163.0,222.0,217.0,200.67
+Male,(70-74),Smolyan,126.0,111.0,127.0,121.33
+Male,(70-74),Sofia,315.0,336.0,352.0,334.33
+Male,(70-74),Sofia (stolitsa),944.0,1019.0,1028.0,997.0
+Male,(70-74),Stara Zagora,379.0,353.0,365.0,365.67
+Male,(70-74),Targovishte,137.0,160.0,132.0,143.0
+Male,(70-74),Varna,446.0,479.0,479.0,468.0
+Male,(70-74),Veliko Tarnovo,332.0,324.0,372.0,342.67
+Male,(70-74),Vidin,150.0,146.0,160.0,152.0
+Male,(70-74),Vratsa,240.0,267.0,260.0,255.67
+Male,(70-74),Yambol,142.0,150.0,139.0,143.67
+Male,(75-79),Blagoevgrad,297.0,329.0,304.0,310.0
+Male,(75-79),Burgas,368.0,378.0,418.0,388.0
+Male,(75-79),Dobrich,200.0,218.0,216.0,211.33
+Male,(75-79),Gabrovo,151.0,157.0,156.0,154.67
+Male,(75-79),Haskovo,270.0,287.0,246.0,267.67
+Male,(75-79),Kardzhali,157.0,150.0,139.0,148.67
+Male,(75-79),Kyustendil,167.0,175.0,189.0,177.0
+Male,(75-79),Lovech,190.0,162.0,199.0,183.67
+Male,(75-79),Montana,184.0,194.0,181.0,186.33
+Male,(75-79),Pazardzhik,302.0,287.0,290.0,293.0
+Male,(75-79),Pernik,180.0,171.0,179.0,176.67
+Male,(75-79),Pleven,322.0,303.0,359.0,328.0
+Male,(75-79),Plovdiv,692.0,712.0,653.0,685.67
+Male,(75-79),Razgrad,146.0,146.0,145.0,145.67
+Male,(75-79),Ruse,259.0,273.0,263.0,265.0
+Male,(75-79),Shumen,198.0,197.0,172.0,189.0
+Male,(75-79),Silistra,150.0,196.0,199.0,181.67
+Male,(75-79),Sliven,192.0,206.0,193.0,197.0
+Male,(75-79),Smolyan,148.0,132.0,122.0,134.0
+Male,(75-79),Sofia,283.0,269.0,289.0,280.33
+Male,(75-79),Sofia (stolitsa),915.0,949.0,952.0,938.67
+Male,(75-79),Stara Zagora,392.0,352.0,358.0,367.33
+Male,(75-79),Targovishte,137.0,139.0,123.0,133.0
+Male,(75-79),Varna,433.0,424.0,407.0,421.33
+Male,(75-79),Veliko Tarnovo,308.0,307.0,286.0,300.33
+Male,(75-79),Vidin,150.0,151.0,143.0,148.0
+Male,(75-79),Vratsa,220.0,218.0,253.0,230.33
+Male,(75-79),Yambol,154.0,151.0,147.0,150.67
+Male,(80-84),Blagoevgrad,294.0,327.0,277.0,299.33
+Male,(80-84),Burgas,423.0,413.0,367.0,401.0
+Male,(80-84),Dobrich,221.0,200.0,164.0,195.0
+Male,(80-84),Gabrovo,189.0,159.0,172.0,173.33
+Male,(80-84),Haskovo,332.0,319.0,258.0,303.0
+Male,(80-84),Kardzhali,160.0,178.0,170.0,169.33
+Male,(80-84),Kyustendil,197.0,190.0,172.0,186.33
+Male,(80-84),Lovech,235.0,227.0,229.0,230.33
+Male,(80-84),Montana,258.0,229.0,199.0,228.67
+Male,(80-84),Pazardzhik,331.0,289.0,298.0,306.0
+Male,(80-84),Pernik,182.0,191.0,179.0,184.0
+Male,(80-84),Pleven,404.0,384.0,363.0,383.67
+Male,(80-84),Plovdiv,778.0,749.0,718.0,748.33
+Male,(80-84),Razgrad,147.0,132.0,123.0,134.0
+Male,(80-84),Ruse,268.0,318.0,269.0,285.0
+Male,(80-84),Shumen,226.0,190.0,185.0,200.33
+Male,(80-84),Silistra,141.0,143.0,149.0,144.33
+Male,(80-84),Sliven,237.0,216.0,187.0,213.33
+Male,(80-84),Smolyan,136.0,117.0,119.0,124.0
+Male,(80-84),Sofia,342.0,320.0,321.0,327.67
+Male,(80-84),Sofia (stolitsa),974.0,997.0,962.0,977.67
+Male,(80-84),Stara Zagora,471.0,448.0,401.0,440.0
+Male,(80-84),Targovishte,147.0,136.0,154.0,145.67
+Male,(80-84),Varna,461.0,441.0,419.0,440.33
+Male,(80-84),Veliko Tarnovo,363.0,272.0,277.0,304.0
+Male,(80-84),Vidin,163.0,159.0,129.0,150.33
+Male,(80-84),Vratsa,254.0,214.0,251.0,239.67
+Male,(80-84),Yambol,201.0,198.0,186.0,195.0
+Male,(85-89),Blagoevgrad,231.0,217.0,275.0,241.0
+Male,(85-89),Burgas,300.0,304.0,326.0,310.0
+Male,(85-89),Dobrich,146.0,151.0,166.0,154.33
+Male,(85-89),Gabrovo,142.0,157.0,143.0,147.33
+Male,(85-89),Haskovo,271.0,251.0,273.0,265.0
+Male,(85-89),Kardzhali,108.0,130.0,113.0,117.0
+Male,(85-89),Kyustendil,150.0,142.0,160.0,150.67
+Male,(85-89),Lovech,163.0,137.0,175.0,158.33
+Male,(85-89),Montana,169.0,179.0,169.0,172.33
+Male,(85-89),Pazardzhik,201.0,192.0,211.0,201.33
+Male,(85-89),Pernik,177.0,159.0,158.0,164.67
+Male,(85-89),Pleven,282.0,283.0,298.0,287.67
+Male,(85-89),Plovdiv,624.0,572.0,628.0,608.0
+Male,(85-89),Razgrad,91.0,88.0,80.0,86.33
+Male,(85-89),Ruse,218.0,226.0,216.0,220.0
+Male,(85-89),Shumen,141.0,136.0,150.0,142.33
+Male,(85-89),Silistra,94.0,104.0,90.0,96.0
+Male,(85-89),Sliven,152.0,154.0,158.0,154.67
+Male,(85-89),Smolyan,94.0,96.0,92.0,94.0
+Male,(85-89),Sofia,242.0,264.0,257.0,254.33
+Male,(85-89),Sofia (stolitsa),917.0,932.0,897.0,915.33
+Male,(85-89),Stara Zagora,333.0,330.0,341.0,334.67
+Male,(85-89),Targovishte,121.0,104.0,98.0,107.67
+Male,(85-89),Varna,377.0,368.0,360.0,368.33
+Male,(85-89),Veliko Tarnovo,239.0,267.0,246.0,250.67
+Male,(85-89),Vidin,137.0,144.0,123.0,134.67
+Male,(85-89),Vratsa,187.0,204.0,188.0,193.0
+Male,(85-89),Yambol,123.0,138.0,129.0,130.0
+Male,(90+),Blagoevgrad,115.0,118.0,117.0,116.67
+Male,(90+),Burgas,165.0,145.0,192.0,167.33
+Male,(90+),Dobrich,69.0,72.0,67.0,69.33
+Male,(90+),Gabrovo,84.0,72.0,63.0,73.0
+Male,(90+),Haskovo,125.0,123.0,131.0,126.33
+Male,(90+),Kardzhali,53.0,58.0,58.0,56.33
+Male,(90+),Kyustendil,69.0,77.0,89.0,78.33
+Male,(90+),Lovech,96.0,101.0,73.0,90.0
+Male,(90+),Montana,90.0,98.0,100.0,96.0
+Male,(90+),Pazardzhik,104.0,100.0,102.0,102.0
+Male,(90+),Pernik,76.0,78.0,83.0,79.0
+Male,(90+),Pleven,136.0,177.0,175.0,162.67
+Male,(90+),Plovdiv,300.0,322.0,347.0,323.0
+Male,(90+),Razgrad,34.0,53.0,36.0,41.0
+Male,(90+),Ruse,118.0,106.0,119.0,114.33
+Male,(90+),Shumen,70.0,61.0,68.0,66.33
+Male,(90+),Silistra,40.0,43.0,32.0,38.33
+Male,(90+),Sliven,71.0,64.0,81.0,72.0
+Male,(90+),Smolyan,47.0,38.0,46.0,43.67
+Male,(90+),Sofia,123.0,122.0,137.0,127.33
+Male,(90+),Sofia (stolitsa),599.0,601.0,652.0,617.33
+Male,(90+),Stara Zagora,149.0,163.0,151.0,154.33
+Male,(90+),Targovishte,34.0,50.0,42.0,42.0
+Male,(90+),Varna,196.0,183.0,181.0,186.67
+Male,(90+),Veliko Tarnovo,135.0,109.0,127.0,123.67
+Male,(90+),Vidin,63.0,66.0,61.0,63.33
+Male,(90+),Vratsa,105.0,86.0,89.0,93.33
+Male,(90+),Yambol,61.0,66.0,64.0,63.67
+Total,(0-4),Blagoevgrad,11.0,17.0,10.0,12.67
+Total,(0-4),Burgas,31.0,27.0,24.0,27.33
+Total,(0-4),Dobrich,19.0,11.0,12.0,14.0
+Total,(0-4),Gabrovo,7.0,6.0,2.0,5.0
+Total,(0-4),Haskovo,12.0,13.0,18.0,14.33
+Total,(0-4),Kardzhali,11.0,5.0,11.0,9.0
+Total,(0-4),Kyustendil,8.0,4.0,5.0,5.67
+Total,(0-4),Lovech,9.0,10.0,4.0,7.67
+Total,(0-4),Montana,12.0,5.0,5.0,7.33
+Total,(0-4),Pazardzhik,29.0,23.0,24.0,25.33
+Total,(0-4),Pernik,5.0,10.0,10.0,8.33
+Total,(0-4),Pleven,24.0,26.0,22.0,24.0
+Total,(0-4),Plovdiv,53.0,61.0,35.0,49.67
+Total,(0-4),Razgrad,6.0,14.0,8.0,9.33
+Total,(0-4),Ruse,21.0,11.0,10.0,14.0
+Total,(0-4),Shumen,11.0,8.0,5.0,8.0
+Total,(0-4),Silistra,8.0,3.0,5.0,5.33
+Total,(0-4),Sliven,33.0,27.0,39.0,33.0
+Total,(0-4),Smolyan,6.0,1.0,1.0,2.67
+Total,(0-4),Sofia,19.0,16.0,11.0,15.33
+Total,(0-4),Sofia (stolitsa),51.0,41.0,46.0,46.0
+Total,(0-4),Stara Zagora,30.0,27.0,33.0,30.0
+Total,(0-4),Targovishte,9.0,10.0,10.0,9.67
+Total,(0-4),Varna,30.0,30.0,31.0,30.33
+Total,(0-4),Veliko Tarnovo,15.0,9.0,15.0,13.0
+Total,(0-4),Vidin,2.0,6.0,6.0,4.67
+Total,(0-4),Vratsa,13.0,14.0,6.0,11.0
+Total,(0-4),Yambol,11.0,15.0,10.0,12.0
+Total,(10-14),Blagoevgrad,1.0,2.0,4.0,2.33
+Total,(10-14),Burgas,5.0,5.0,4.0,4.67
+Total,(10-14),Dobrich,1.0,0.0,0.0,0.33
+Total,(10-14),Gabrovo,2.0,0.0,0.0,0.67
+Total,(10-14),Haskovo,1.0,2.0,1.0,1.33
+Total,(10-14),Kardzhali,2.0,0.0,0.0,0.67
+Total,(10-14),Kyustendil,1.0,2.0,2.0,1.67
+Total,(10-14),Lovech,1.0,0.0,2.0,1.0
+Total,(10-14),Montana,0.0,1.0,1.0,0.67
+Total,(10-14),Pazardzhik,7.0,5.0,1.0,4.33
+Total,(10-14),Pernik,2.0,5.0,2.0,3.0
+Total,(10-14),Pleven,3.0,4.0,4.0,3.67
+Total,(10-14),Plovdiv,5.0,4.0,2.0,3.67
+Total,(10-14),Razgrad,1.0,1.0,0.0,0.67
+Total,(10-14),Ruse,0.0,4.0,2.0,2.0
+Total,(10-14),Shumen,1.0,2.0,3.0,2.0
+Total,(10-14),Silistra,2.0,2.0,0.0,1.33
+Total,(10-14),Sliven,3.0,1.0,4.0,2.67
+Total,(10-14),Smolyan,1.0,2.0,2.0,1.67
+Total,(10-14),Sofia,2.0,4.0,4.0,3.33
+Total,(10-14),Sofia (stolitsa),10.0,2.0,11.0,7.67
+Total,(10-14),Stara Zagora,1.0,6.0,5.0,4.0
+Total,(10-14),Targovishte,0.0,0.0,2.0,0.67
+Total,(10-14),Varna,1.0,4.0,5.0,3.33
+Total,(10-14),Veliko Tarnovo,1.0,4.0,1.0,2.0
+Total,(10-14),Vidin,0.0,0.0,0.0,0.0
+Total,(10-14),Vratsa,1.0,6.0,4.0,3.67
+Total,(10-14),Yambol,1.0,2.0,0.0,1.0
+Total,(15-19),Blagoevgrad,4.0,3.0,4.0,3.67
+Total,(15-19),Burgas,7.0,12.0,9.0,9.33
+Total,(15-19),Dobrich,3.0,7.0,5.0,5.0
+Total,(15-19),Gabrovo,2.0,4.0,1.0,2.33
+Total,(15-19),Haskovo,5.0,6.0,7.0,6.0
+Total,(15-19),Kardzhali,3.0,2.0,3.0,2.67
+Total,(15-19),Kyustendil,4.0,1.0,2.0,2.33
+Total,(15-19),Lovech,4.0,5.0,4.0,4.33
+Total,(15-19),Montana,7.0,4.0,4.0,5.0
+Total,(15-19),Pazardzhik,4.0,4.0,8.0,5.33
+Total,(15-19),Pernik,4.0,3.0,1.0,2.67
+Total,(15-19),Pleven,7.0,5.0,3.0,5.0
+Total,(15-19),Plovdiv,12.0,11.0,18.0,13.67
+Total,(15-19),Razgrad,1.0,3.0,6.0,3.33
+Total,(15-19),Ruse,3.0,3.0,4.0,3.33
+Total,(15-19),Shumen,4.0,3.0,4.0,3.67
+Total,(15-19),Silistra,1.0,3.0,6.0,3.33
+Total,(15-19),Sliven,2.0,8.0,8.0,6.0
+Total,(15-19),Smolyan,1.0,0.0,2.0,1.0
+Total,(15-19),Sofia,10.0,4.0,5.0,6.33
+Total,(15-19),Sofia (stolitsa),20.0,15.0,15.0,16.67
+Total,(15-19),Stara Zagora,8.0,13.0,12.0,11.0
+Total,(15-19),Targovishte,3.0,3.0,3.0,3.0
+Total,(15-19),Varna,4.0,8.0,8.0,6.67
+Total,(15-19),Veliko Tarnovo,6.0,2.0,5.0,4.33
+Total,(15-19),Vidin,2.0,0.0,2.0,1.33
+Total,(15-19),Vratsa,6.0,8.0,3.0,5.67
+Total,(15-19),Yambol,3.0,5.0,3.0,3.67
+Total,(20-24),Blagoevgrad,11.0,4.0,3.0,6.0
+Total,(20-24),Burgas,11.0,6.0,13.0,10.0
+Total,(20-24),Dobrich,10.0,5.0,2.0,5.67
+Total,(20-24),Gabrovo,0.0,4.0,4.0,2.67
+Total,(20-24),Haskovo,4.0,7.0,7.0,6.0
+Total,(20-24),Kardzhali,4.0,3.0,3.0,3.33
+Total,(20-24),Kyustendil,2.0,3.0,1.0,2.0
+Total,(20-24),Lovech,7.0,2.0,5.0,4.67
+Total,(20-24),Montana,3.0,2.0,3.0,2.67
+Total,(20-24),Pazardzhik,10.0,5.0,10.0,8.33
+Total,(20-24),Pernik,1.0,4.0,6.0,3.67
+Total,(20-24),Pleven,8.0,6.0,6.0,6.67
+Total,(20-24),Plovdiv,11.0,16.0,17.0,14.67
+Total,(20-24),Razgrad,5.0,6.0,2.0,4.33
+Total,(20-24),Ruse,3.0,7.0,7.0,5.67
+Total,(20-24),Shumen,4.0,7.0,6.0,5.67
+Total,(20-24),Silistra,4.0,3.0,7.0,4.67
+Total,(20-24),Sliven,8.0,6.0,8.0,7.33
+Total,(20-24),Smolyan,1.0,3.0,1.0,1.67
+Total,(20-24),Sofia,4.0,7.0,9.0,6.67
+Total,(20-24),Sofia (stolitsa),39.0,26.0,32.0,32.33
+Total,(20-24),Stara Zagora,5.0,12.0,10.0,9.0
+Total,(20-24),Targovishte,2.0,4.0,2.0,2.67
+Total,(20-24),Varna,15.0,12.0,10.0,12.33
+Total,(20-24),Veliko Tarnovo,7.0,6.0,5.0,6.0
+Total,(20-24),Vidin,4.0,1.0,2.0,2.33
+Total,(20-24),Vratsa,4.0,7.0,4.0,5.0
+Total,(20-24),Yambol,4.0,1.0,4.0,3.0
+Total,(25-29),Blagoevgrad,9.0,13.0,10.0,10.67
+Total,(25-29),Burgas,22.0,15.0,20.0,19.0
+Total,(25-29),Dobrich,8.0,6.0,9.0,7.67
+Total,(25-29),Gabrovo,9.0,4.0,2.0,5.0
+Total,(25-29),Haskovo,11.0,10.0,6.0,9.0
+Total,(25-29),Kardzhali,3.0,7.0,4.0,4.67
+Total,(25-29),Kyustendil,3.0,6.0,7.0,5.33
+Total,(25-29),Lovech,5.0,9.0,5.0,6.33
+Total,(25-29),Montana,8.0,4.0,7.0,6.33
+Total,(25-29),Pazardzhik,16.0,7.0,8.0,10.33
+Total,(25-29),Pernik,2.0,4.0,5.0,3.67
+Total,(25-29),Pleven,5.0,5.0,15.0,8.33
+Total,(25-29),Plovdiv,37.0,33.0,24.0,31.33
+Total,(25-29),Razgrad,4.0,4.0,8.0,5.33
+Total,(25-29),Ruse,6.0,9.0,8.0,7.67
+Total,(25-29),Shumen,3.0,6.0,8.0,5.67
+Total,(25-29),Silistra,5.0,7.0,4.0,5.33
+Total,(25-29),Sliven,14.0,13.0,7.0,11.33
+Total,(25-29),Smolyan,2.0,5.0,8.0,5.0
+Total,(25-29),Sofia,14.0,14.0,8.0,12.0
+Total,(25-29),Sofia (stolitsa),56.0,52.0,44.0,50.67
+Total,(25-29),Stara Zagora,17.0,18.0,14.0,16.33
+Total,(25-29),Targovishte,4.0,3.0,5.0,4.0
+Total,(25-29),Varna,20.0,18.0,15.0,17.67
+Total,(25-29),Veliko Tarnovo,10.0,13.0,9.0,10.67
+Total,(25-29),Vidin,7.0,4.0,5.0,5.33
+Total,(25-29),Vratsa,11.0,8.0,11.0,10.0
+Total,(25-29),Yambol,5.0,7.0,3.0,5.0
+Total,(30-34),Blagoevgrad,22.0,20.0,13.0,18.33
+Total,(30-34),Burgas,23.0,24.0,22.0,23.0
+Total,(30-34),Dobrich,15.0,11.0,15.0,13.67
+Total,(30-34),Gabrovo,4.0,2.0,2.0,2.67
+Total,(30-34),Haskovo,14.0,15.0,15.0,14.67
+Total,(30-34),Kardzhali,12.0,11.0,11.0,11.33
+Total,(30-34),Kyustendil,8.0,7.0,7.0,7.33
+Total,(30-34),Lovech,9.0,11.0,10.0,10.0
+Total,(30-34),Montana,10.0,7.0,12.0,9.67
+Total,(30-34),Pazardzhik,17.0,15.0,20.0,17.33
+Total,(30-34),Pernik,9.0,4.0,10.0,7.67
+Total,(30-34),Pleven,17.0,8.0,10.0,11.67
+Total,(30-34),Plovdiv,42.0,43.0,34.0,39.67
+Total,(30-34),Razgrad,6.0,11.0,4.0,7.0
+Total,(30-34),Ruse,18.0,15.0,23.0,18.67
+Total,(30-34),Shumen,13.0,16.0,11.0,13.33
+Total,(30-34),Silistra,2.0,6.0,7.0,5.0
+Total,(30-34),Sliven,18.0,20.0,14.0,17.33
+Total,(30-34),Smolyan,6.0,9.0,3.0,6.0
+Total,(30-34),Sofia,17.0,21.0,15.0,17.67
+Total,(30-34),Sofia (stolitsa),79.0,105.0,90.0,91.33
+Total,(30-34),Stara Zagora,17.0,27.0,20.0,21.33
+Total,(30-34),Targovishte,6.0,8.0,5.0,6.33
+Total,(30-34),Varna,30.0,29.0,29.0,29.33
+Total,(30-34),Veliko Tarnovo,8.0,12.0,13.0,11.0
+Total,(30-34),Vidin,3.0,10.0,4.0,5.67
+Total,(30-34),Vratsa,16.0,13.0,13.0,14.0
+Total,(30-34),Yambol,5.0,7.0,8.0,6.67
+Total,(35-39),Blagoevgrad,23.0,24.0,24.0,23.67
+Total,(35-39),Burgas,33.0,44.0,42.0,39.67
+Total,(35-39),Dobrich,25.0,25.0,25.0,25.0
+Total,(35-39),Gabrovo,9.0,9.0,6.0,8.0
+Total,(35-39),Haskovo,25.0,22.0,26.0,24.33
+Total,(35-39),Kardzhali,11.0,20.0,13.0,14.67
+Total,(35-39),Kyustendil,17.0,15.0,21.0,17.67
+Total,(35-39),Lovech,15.0,12.0,13.0,13.33
+Total,(35-39),Montana,12.0,15.0,19.0,15.33
+Total,(35-39),Pazardzhik,19.0,27.0,34.0,26.67
+Total,(35-39),Pernik,12.0,8.0,20.0,13.33
+Total,(35-39),Pleven,23.0,19.0,29.0,23.67
+Total,(35-39),Plovdiv,68.0,72.0,79.0,73.0
+Total,(35-39),Razgrad,12.0,13.0,14.0,13.0
+Total,(35-39),Ruse,17.0,25.0,20.0,20.67
+Total,(35-39),Shumen,7.0,25.0,14.0,15.33
+Total,(35-39),Silistra,10.0,7.0,16.0,11.0
+Total,(35-39),Sliven,27.0,37.0,26.0,30.0
+Total,(35-39),Smolyan,8.0,12.0,10.0,10.0
+Total,(35-39),Sofia,21.0,32.0,27.0,26.67
+Total,(35-39),Sofia (stolitsa),154.0,129.0,151.0,144.67
+Total,(35-39),Stara Zagora,36.0,36.0,32.0,34.67
+Total,(35-39),Targovishte,19.0,15.0,10.0,14.67
+Total,(35-39),Varna,52.0,47.0,56.0,51.67
+Total,(35-39),Veliko Tarnovo,24.0,26.0,15.0,21.67
+Total,(35-39),Vidin,7.0,16.0,6.0,9.67
+Total,(35-39),Vratsa,25.0,13.0,13.0,17.0
+Total,(35-39),Yambol,14.0,12.0,19.0,15.0
+Total,(40-44),Blagoevgrad,54.0,52.0,42.0,49.33
+Total,(40-44),Burgas,80.0,79.0,92.0,83.67
+Total,(40-44),Dobrich,37.0,30.0,43.0,36.67
+Total,(40-44),Gabrovo,29.0,20.0,16.0,21.67
+Total,(40-44),Haskovo,38.0,48.0,44.0,43.33
+Total,(40-44),Kardzhali,16.0,22.0,24.0,20.67
+Total,(40-44),Kyustendil,26.0,32.0,30.0,29.33
+Total,(40-44),Lovech,25.0,25.0,19.0,23.0
+Total,(40-44),Montana,23.0,28.0,27.0,26.0
+Total,(40-44),Pazardzhik,40.0,38.0,42.0,40.0
+Total,(40-44),Pernik,41.0,19.0,23.0,27.67
+Total,(40-44),Pleven,35.0,54.0,42.0,43.67
+Total,(40-44),Plovdiv,127.0,108.0,119.0,118.0
+Total,(40-44),Razgrad,24.0,12.0,27.0,21.0
+Total,(40-44),Ruse,40.0,38.0,47.0,41.67
+Total,(40-44),Shumen,30.0,29.0,23.0,27.33
+Total,(40-44),Silistra,28.0,16.0,19.0,21.0
+Total,(40-44),Sliven,56.0,36.0,41.0,44.33
+Total,(40-44),Smolyan,16.0,14.0,17.0,15.67
+Total,(40-44),Sofia,52.0,53.0,48.0,51.0
+Total,(40-44),Sofia (stolitsa),256.0,282.0,248.0,262.0
+Total,(40-44),Stara Zagora,69.0,49.0,56.0,58.0
+Total,(40-44),Targovishte,21.0,24.0,29.0,24.67
+Total,(40-44),Varna,91.0,86.0,69.0,82.0
+Total,(40-44),Veliko Tarnovo,49.0,43.0,41.0,44.33
+Total,(40-44),Vidin,26.0,24.0,15.0,21.67
+Total,(40-44),Vratsa,42.0,35.0,34.0,37.0
+Total,(40-44),Yambol,20.0,32.0,21.0,24.33
+Total,(45-49),Blagoevgrad,97.0,86.0,81.0,88.0
+Total,(45-49),Burgas,136.0,111.0,139.0,128.67
+Total,(45-49),Dobrich,74.0,68.0,63.0,68.33
+Total,(45-49),Gabrovo,38.0,26.0,37.0,33.67
+Total,(45-49),Haskovo,62.0,63.0,73.0,66.0
+Total,(45-49),Kardzhali,36.0,43.0,32.0,37.0
+Total,(45-49),Kyustendil,41.0,46.0,46.0,44.33
+Total,(45-49),Lovech,55.0,31.0,52.0,46.0
+Total,(45-49),Montana,44.0,55.0,65.0,54.67
+Total,(45-49),Pazardzhik,84.0,74.0,82.0,80.0
+Total,(45-49),Pernik,48.0,46.0,56.0,50.0
+Total,(45-49),Pleven,73.0,91.0,67.0,77.0
+Total,(45-49),Plovdiv,171.0,196.0,194.0,187.0
+Total,(45-49),Razgrad,49.0,45.0,43.0,45.67
+Total,(45-49),Ruse,74.0,59.0,70.0,67.67
+Total,(45-49),Shumen,50.0,62.0,64.0,58.67
+Total,(45-49),Silistra,49.0,39.0,20.0,36.0
+Total,(45-49),Sliven,72.0,60.0,70.0,67.33
+Total,(45-49),Smolyan,25.0,30.0,44.0,33.0
+Total,(45-49),Sofia,91.0,94.0,78.0,87.67
+Total,(45-49),Sofia (stolitsa),386.0,360.0,382.0,376.0
+Total,(45-49),Stara Zagora,82.0,102.0,113.0,99.0
+Total,(45-49),Targovishte,33.0,36.0,38.0,35.67
+Total,(45-49),Varna,124.0,124.0,124.0,124.0
+Total,(45-49),Veliko Tarnovo,65.0,77.0,74.0,72.0
+Total,(45-49),Vidin,34.0,35.0,38.0,35.67
+Total,(45-49),Vratsa,74.0,84.0,59.0,72.33
+Total,(45-49),Yambol,46.0,50.0,46.0,47.33
+Total,(5-9),Blagoevgrad,1.0,4.0,1.0,2.0
+Total,(5-9),Burgas,6.0,6.0,5.0,5.67
+Total,(5-9),Dobrich,0.0,2.0,3.0,1.67
+Total,(5-9),Gabrovo,0.0,1.0,0.0,0.33
+Total,(5-9),Haskovo,2.0,0.0,2.0,1.33
+Total,(5-9),Kardzhali,2.0,2.0,2.0,2.0
+Total,(5-9),Kyustendil,0.0,0.0,0.0,0.0
+Total,(5-9),Lovech,0.0,2.0,0.0,0.67
+Total,(5-9),Montana,1.0,1.0,0.0,0.67
+Total,(5-9),Pazardzhik,2.0,4.0,1.0,2.33
+Total,(5-9),Pernik,0.0,2.0,1.0,1.0
+Total,(5-9),Pleven,1.0,2.0,4.0,2.33
+Total,(5-9),Plovdiv,4.0,7.0,2.0,4.33
+Total,(5-9),Razgrad,0.0,2.0,1.0,1.0
+Total,(5-9),Ruse,0.0,1.0,2.0,1.0
+Total,(5-9),Shumen,2.0,2.0,1.0,1.67
+Total,(5-9),Silistra,0.0,1.0,0.0,0.33
+Total,(5-9),Sliven,2.0,1.0,5.0,2.67
+Total,(5-9),Smolyan,0.0,0.0,1.0,0.33
+Total,(5-9),Sofia,0.0,2.0,0.0,0.67
+Total,(5-9),Sofia (stolitsa),11.0,9.0,6.0,8.67
+Total,(5-9),Stara Zagora,2.0,3.0,2.0,2.33
+Total,(5-9),Targovishte,3.0,3.0,2.0,2.67
+Total,(5-9),Varna,4.0,4.0,4.0,4.0
+Total,(5-9),Veliko Tarnovo,1.0,0.0,3.0,1.33
+Total,(5-9),Vidin,1.0,0.0,1.0,0.67
+Total,(5-9),Vratsa,1.0,0.0,0.0,0.33
+Total,(5-9),Yambol,0.0,0.0,1.0,0.33
+Total,(50-54),Blagoevgrad,157.0,153.0,142.0,150.67
+Total,(50-54),Burgas,199.0,171.0,182.0,184.0
+Total,(50-54),Dobrich,107.0,106.0,97.0,103.33
+Total,(50-54),Gabrovo,54.0,49.0,50.0,51.0
+Total,(50-54),Haskovo,125.0,112.0,117.0,118.0
+Total,(50-54),Kardzhali,58.0,75.0,63.0,65.33
+Total,(50-54),Kyustendil,74.0,67.0,66.0,69.0
+Total,(50-54),Lovech,67.0,64.0,60.0,63.67
+Total,(50-54),Montana,80.0,70.0,71.0,73.67
+Total,(50-54),Pazardzhik,128.0,118.0,122.0,122.67
+Total,(50-54),Pernik,69.0,68.0,70.0,69.0
+Total,(50-54),Pleven,91.0,120.0,106.0,105.67
+Total,(50-54),Plovdiv,299.0,305.0,329.0,311.0
+Total,(50-54),Razgrad,81.0,60.0,50.0,63.67
+Total,(50-54),Ruse,118.0,116.0,96.0,110.0
+Total,(50-54),Shumen,91.0,110.0,81.0,94.0
+Total,(50-54),Silistra,68.0,64.0,55.0,62.33
+Total,(50-54),Sliven,99.0,95.0,90.0,94.67
+Total,(50-54),Smolyan,55.0,48.0,62.0,55.0
+Total,(50-54),Sofia,138.0,134.0,124.0,132.0
+Total,(50-54),Sofia (stolitsa),485.0,446.0,429.0,453.33
+Total,(50-54),Stara Zagora,180.0,159.0,134.0,157.67
+Total,(50-54),Targovishte,55.0,72.0,63.0,63.33
+Total,(50-54),Varna,183.0,182.0,204.0,189.67
+Total,(50-54),Veliko Tarnovo,117.0,105.0,115.0,112.33
+Total,(50-54),Vidin,50.0,47.0,53.0,50.0
+Total,(50-54),Vratsa,100.0,96.0,90.0,95.33
+Total,(50-54),Yambol,57.0,61.0,47.0,55.0
+Total,(55-59),Blagoevgrad,237.0,217.0,222.0,225.33
+Total,(55-59),Burgas,294.0,315.0,280.0,296.33
+Total,(55-59),Dobrich,170.0,163.0,165.0,166.0
+Total,(55-59),Gabrovo,83.0,72.0,92.0,82.33
+Total,(55-59),Haskovo,166.0,191.0,194.0,183.67
+Total,(55-59),Kardzhali,92.0,89.0,93.0,91.33
+Total,(55-59),Kyustendil,119.0,130.0,121.0,123.33
+Total,(55-59),Lovech,119.0,113.0,92.0,108.0
+Total,(55-59),Montana,116.0,145.0,124.0,128.33
+Total,(55-59),Pazardzhik,239.0,216.0,217.0,224.0
+Total,(55-59),Pernik,123.0,136.0,118.0,125.67
+Total,(55-59),Pleven,209.0,187.0,184.0,193.33
+Total,(55-59),Plovdiv,465.0,508.0,450.0,474.33
+Total,(55-59),Razgrad,115.0,91.0,88.0,98.0
+Total,(55-59),Ruse,179.0,198.0,158.0,178.33
+Total,(55-59),Shumen,141.0,149.0,160.0,150.0
+Total,(55-59),Silistra,107.0,93.0,99.0,99.67
+Total,(55-59),Sliven,159.0,167.0,158.0,161.33
+Total,(55-59),Smolyan,106.0,92.0,86.0,94.67
+Total,(55-59),Sofia,232.0,215.0,193.0,213.33
+Total,(55-59),Sofia (stolitsa),763.0,759.0,698.0,740.0
+Total,(55-59),Stara Zagora,245.0,234.0,247.0,242.0
+Total,(55-59),Targovishte,80.0,99.0,101.0,93.33
+Total,(55-59),Varna,315.0,334.0,289.0,312.67
+Total,(55-59),Veliko Tarnovo,210.0,191.0,179.0,193.33
+Total,(55-59),Vidin,65.0,85.0,75.0,75.0
+Total,(55-59),Vratsa,173.0,157.0,159.0,163.0
+Total,(55-59),Yambol,87.0,110.0,104.0,100.33
+Total,(60-64),Blagoevgrad,291.0,307.0,312.0,303.33
+Total,(60-64),Burgas,426.0,455.0,445.0,442.0
+Total,(60-64),Dobrich,252.0,227.0,231.0,236.67
+Total,(60-64),Gabrovo,145.0,142.0,130.0,139.0
+Total,(60-64),Haskovo,284.0,271.0,273.0,276.0
+Total,(60-64),Kardzhali,148.0,133.0,162.0,147.67
+Total,(60-64),Kyustendil,197.0,180.0,195.0,190.67
+Total,(60-64),Lovech,172.0,176.0,172.0,173.33
+Total,(60-64),Montana,184.0,162.0,182.0,176.0
+Total,(60-64),Pazardzhik,320.0,324.0,343.0,329.0
+Total,(60-64),Pernik,180.0,181.0,182.0,181.0
+Total,(60-64),Pleven,302.0,288.0,306.0,298.67
+Total,(60-64),Plovdiv,705.0,713.0,650.0,689.33
+Total,(60-64),Razgrad,192.0,146.0,137.0,158.33
+Total,(60-64),Ruse,266.0,272.0,278.0,272.0
+Total,(60-64),Shumen,216.0,218.0,222.0,218.67
+Total,(60-64),Silistra,146.0,154.0,144.0,148.0
+Total,(60-64),Sliven,269.0,230.0,227.0,242.0
+Total,(60-64),Smolyan,141.0,137.0,138.0,138.67
+Total,(60-64),Sofia,301.0,312.0,308.0,307.0
+Total,(60-64),Sofia (stolitsa),1121.0,1137.0,1129.0,1129.0
+Total,(60-64),Stara Zagora,344.0,403.0,365.0,370.67
+Total,(60-64),Targovishte,139.0,115.0,152.0,135.33
+Total,(60-64),Varna,463.0,472.0,454.0,463.0
+Total,(60-64),Veliko Tarnovo,323.0,315.0,273.0,303.67
+Total,(60-64),Vidin,129.0,123.0,125.0,125.67
+Total,(60-64),Vratsa,209.0,227.0,223.0,219.67
+Total,(60-64),Yambol,176.0,162.0,138.0,158.67
+Total,(65-69),Blagoevgrad,404.0,447.0,385.0,412.0
+Total,(65-69),Burgas,631.0,605.0,603.0,613.0
+Total,(65-69),Dobrich,346.0,353.0,349.0,349.33
+Total,(65-69),Gabrovo,245.0,212.0,216.0,224.33
+Total,(65-69),Haskovo,427.0,366.0,402.0,398.33
+Total,(65-69),Kardzhali,179.0,183.0,193.0,185.0
+Total,(65-69),Kyustendil,273.0,251.0,244.0,256.0
+Total,(65-69),Lovech,245.0,258.0,239.0,247.33
+Total,(65-69),Montana,293.0,286.0,277.0,285.33
+Total,(65-69),Pazardzhik,399.0,394.0,410.0,401.0
+Total,(65-69),Pernik,250.0,213.0,250.0,237.67
+Total,(65-69),Pleven,510.0,484.0,422.0,472.0
+Total,(65-69),Plovdiv,1008.0,888.0,937.0,944.33
+Total,(65-69),Razgrad,213.0,208.0,251.0,224.0
+Total,(65-69),Ruse,368.0,433.0,391.0,397.33
+Total,(65-69),Shumen,330.0,278.0,314.0,307.33
+Total,(65-69),Silistra,221.0,200.0,207.0,209.33
+Total,(65-69),Sliven,299.0,332.0,277.0,302.67
+Total,(65-69),Smolyan,188.0,191.0,165.0,181.33
+Total,(65-69),Sofia,455.0,433.0,417.0,435.0
+Total,(65-69),Sofia (stolitsa),1576.0,1603.0,1620.0,1599.67
+Total,(65-69),Stara Zagora,541.0,527.0,533.0,533.67
+Total,(65-69),Targovishte,215.0,162.0,187.0,188.0
+Total,(65-69),Varna,608.0,657.0,653.0,639.33
+Total,(65-69),Veliko Tarnovo,423.0,426.0,432.0,427.0
+Total,(65-69),Vidin,196.0,168.0,179.0,181.0
+Total,(65-69),Vratsa,366.0,322.0,324.0,337.33
+Total,(65-69),Yambol,234.0,217.0,235.0,228.67
+Total,(70-74),Blagoevgrad,490.0,469.0,477.0,478.67
+Total,(70-74),Burgas,715.0,681.0,710.0,702.0
+Total,(70-74),Dobrich,385.0,389.0,407.0,393.67
+Total,(70-74),Gabrovo,273.0,325.0,293.0,297.0
+Total,(70-74),Haskovo,449.0,390.0,396.0,411.67
+Total,(70-74),Kardzhali,244.0,214.0,224.0,227.33
+Total,(70-74),Kyustendil,303.0,268.0,286.0,285.67
+Total,(70-74),Lovech,345.0,329.0,340.0,338.0
+Total,(70-74),Montana,341.0,337.0,381.0,353.0
+Total,(70-74),Pazardzhik,463.0,497.0,534.0,498.0
+Total,(70-74),Pernik,271.0,271.0,298.0,280.0
+Total,(70-74),Pleven,557.0,589.0,587.0,577.67
+Total,(70-74),Plovdiv,1080.0,1145.0,1175.0,1133.33
+Total,(70-74),Razgrad,261.0,268.0,265.0,264.67
+Total,(70-74),Ruse,470.0,504.0,487.0,487.0
+Total,(70-74),Shumen,350.0,385.0,408.0,381.0
+Total,(70-74),Silistra,296.0,292.0,285.0,291.0
+Total,(70-74),Sliven,285.0,356.0,380.0,340.33
+Total,(70-74),Smolyan,214.0,185.0,215.0,204.67
+Total,(70-74),Sofia,513.0,560.0,578.0,550.33
+Total,(70-74),Sofia (stolitsa),1752.0,1857.0,1883.0,1830.67
+Total,(70-74),Stara Zagora,628.0,602.0,618.0,616.0
+Total,(70-74),Targovishte,238.0,258.0,248.0,248.0
+Total,(70-74),Varna,735.0,801.0,755.0,763.67
+Total,(70-74),Veliko Tarnovo,554.0,540.0,604.0,566.0
+Total,(70-74),Vidin,270.0,252.0,269.0,263.67
+Total,(70-74),Vratsa,420.0,458.0,425.0,434.33
+Total,(70-74),Yambol,241.0,249.0,252.0,247.33
+Total,(75-79),Blagoevgrad,599.0,631.0,588.0,606.0
+Total,(75-79),Burgas,744.0,751.0,799.0,764.67
+Total,(75-79),Dobrich,422.0,410.0,454.0,428.67
+Total,(75-79),Gabrovo,319.0,316.0,311.0,315.33
+Total,(75-79),Haskovo,511.0,501.0,482.0,498.0
+Total,(75-79),Kardzhali,325.0,299.0,280.0,301.33
+Total,(75-79),Kyustendil,346.0,349.0,341.0,345.33
+Total,(75-79),Lovech,388.0,322.0,387.0,365.67
+Total,(75-79),Montana,406.0,398.0,394.0,399.33
+Total,(75-79),Pazardzhik,601.0,530.0,582.0,571.0
+Total,(75-79),Pernik,357.0,343.0,337.0,345.67
+Total,(75-79),Pleven,669.0,626.0,698.0,664.33
+Total,(75-79),Plovdiv,1373.0,1394.0,1276.0,1347.67
+Total,(75-79),Razgrad,308.0,304.0,316.0,309.33
+Total,(75-79),Ruse,507.0,529.0,545.0,527.0
+Total,(75-79),Shumen,396.0,411.0,355.0,387.33
+Total,(75-79),Silistra,281.0,360.0,355.0,332.0
+Total,(75-79),Sliven,378.0,404.0,369.0,383.67
+Total,(75-79),Smolyan,268.0,253.0,229.0,250.0
+Total,(75-79),Sofia,551.0,565.0,552.0,556.0
+Total,(75-79),Sofia (stolitsa),1851.0,1878.0,1946.0,1891.67
+Total,(75-79),Stara Zagora,767.0,705.0,683.0,718.33
+Total,(75-79),Targovishte,290.0,288.0,283.0,287.0
+Total,(75-79),Varna,849.0,819.0,783.0,817.0
+Total,(75-79),Veliko Tarnovo,580.0,629.0,572.0,593.67
+Total,(75-79),Vidin,270.0,298.0,279.0,282.33
+Total,(75-79),Vratsa,443.0,414.0,478.0,445.0
+Total,(75-79),Yambol,289.0,293.0,291.0,291.0
+Total,(80-84),Blagoevgrad,733.0,732.0,692.0,719.0
+Total,(80-84),Burgas,986.0,943.0,876.0,935.0
+Total,(80-84),Dobrich,508.0,460.0,439.0,469.0
+Total,(80-84),Gabrovo,469.0,379.0,391.0,413.0
+Total,(80-84),Haskovo,759.0,712.0,660.0,710.33
+Total,(80-84),Kardzhali,363.0,370.0,395.0,376.0
+Total,(80-84),Kyustendil,462.0,426.0,398.0,428.67
+Total,(80-84),Lovech,526.0,478.0,493.0,499.0
+Total,(80-84),Montana,574.0,557.0,478.0,536.33
+Total,(80-84),Pazardzhik,801.0,683.0,670.0,718.0
+Total,(80-84),Pernik,418.0,429.0,415.0,420.67
+Total,(80-84),Pleven,898.0,826.0,834.0,852.67
+Total,(80-84),Plovdiv,1809.0,1758.0,1679.0,1748.67
+Total,(80-84),Razgrad,327.0,319.0,299.0,315.0
+Total,(80-84),Ruse,668.0,698.0,657.0,674.33
+Total,(80-84),Shumen,470.0,457.0,441.0,456.0
+Total,(80-84),Silistra,356.0,329.0,328.0,337.67
+Total,(80-84),Sliven,542.0,493.0,459.0,498.0
+Total,(80-84),Smolyan,306.0,290.0,278.0,291.33
+Total,(80-84),Sofia,801.0,723.0,701.0,741.67
+Total,(80-84),Sofia (stolitsa),2383.0,2438.0,2341.0,2387.33
+Total,(80-84),Stara Zagora,1021.0,1009.0,935.0,988.33
+Total,(80-84),Targovishte,327.0,311.0,332.0,323.33
+Total,(80-84),Varna,1086.0,1034.0,977.0,1032.33
+Total,(80-84),Veliko Tarnovo,864.0,707.0,645.0,738.67
+Total,(80-84),Vidin,404.0,373.0,334.0,370.33
+Total,(80-84),Vratsa,627.0,555.0,547.0,576.33
+Total,(80-84),Yambol,460.0,435.0,400.0,431.67
+Total,(85-89),Blagoevgrad,595.0,545.0,663.0,601.0
+Total,(85-89),Burgas,826.0,761.0,864.0,817.0
+Total,(85-89),Dobrich,369.0,408.0,378.0,385.0
+Total,(85-89),Gabrovo,385.0,374.0,345.0,368.0
+Total,(85-89),Haskovo,671.0,649.0,693.0,671.0
+Total,(85-89),Kardzhali,276.0,289.0,287.0,284.0
+Total,(85-89),Kyustendil,379.0,397.0,420.0,398.67
+Total,(85-89),Lovech,422.0,362.0,441.0,408.33
+Total,(85-89),Montana,426.0,465.0,447.0,446.0
+Total,(85-89),Pazardzhik,608.0,551.0,561.0,573.33
+Total,(85-89),Pernik,431.0,395.0,404.0,410.0
+Total,(85-89),Pleven,740.0,729.0,784.0,751.0
+Total,(85-89),Plovdiv,1607.0,1526.0,1698.0,1610.33
+Total,(85-89),Razgrad,230.0,262.0,226.0,239.33
+Total,(85-89),Ruse,583.0,590.0,563.0,578.67
+Total,(85-89),Shumen,368.0,361.0,369.0,366.0
+Total,(85-89),Silistra,208.0,264.0,246.0,239.33
+Total,(85-89),Sliven,391.0,403.0,417.0,403.67
+Total,(85-89),Smolyan,258.0,248.0,247.0,251.0
+Total,(85-89),Sofia,673.0,667.0,681.0,673.67
+Total,(85-89),Sofia (stolitsa),2491.0,2500.0,2528.0,2506.33
+Total,(85-89),Stara Zagora,872.0,846.0,863.0,860.33
+Total,(85-89),Targovishte,259.0,255.0,278.0,264.0
+Total,(85-89),Varna,923.0,952.0,981.0,952.0
+Total,(85-89),Veliko Tarnovo,633.0,675.0,697.0,668.33
+Total,(85-89),Vidin,311.0,337.0,314.0,320.67
+Total,(85-89),Vratsa,499.0,533.0,514.0,515.33
+Total,(85-89),Yambol,338.0,356.0,363.0,352.33
+Total,(90+),Blagoevgrad,344.0,321.0,367.0,344.0
+Total,(90+),Burgas,497.0,472.0,541.0,503.33
+Total,(90+),Dobrich,196.0,220.0,201.0,205.67
+Total,(90+),Gabrovo,246.0,233.0,211.0,230.0
+Total,(90+),Haskovo,373.0,379.0,373.0,375.0
+Total,(90+),Kardzhali,170.0,170.0,152.0,164.0
+Total,(90+),Kyustendil,262.0,245.0,234.0,247.0
+Total,(90+),Lovech,271.0,262.0,242.0,258.33
+Total,(90+),Montana,257.0,292.0,303.0,284.0
+Total,(90+),Pazardzhik,336.0,328.0,333.0,332.33
+Total,(90+),Pernik,210.0,238.0,231.0,226.33
+Total,(90+),Pleven,439.0,492.0,485.0,472.0
+Total,(90+),Plovdiv,954.0,1028.0,1030.0,1004.0
+Total,(90+),Razgrad,109.0,146.0,133.0,129.33
+Total,(90+),Ruse,325.0,313.0,335.0,324.33
+Total,(90+),Shumen,228.0,228.0,200.0,218.67
+Total,(90+),Silistra,103.0,125.0,117.0,115.0
+Total,(90+),Sliven,217.0,219.0,223.0,219.67
+Total,(90+),Smolyan,164.0,143.0,150.0,152.33
+Total,(90+),Sofia,376.0,378.0,394.0,382.67
+Total,(90+),Sofia (stolitsa),1828.0,1838.0,2012.0,1892.67
+Total,(90+),Stara Zagora,438.0,459.0,503.0,466.67
+Total,(90+),Targovishte,134.0,153.0,128.0,138.33
+Total,(90+),Varna,535.0,573.0,533.0,547.0
+Total,(90+),Veliko Tarnovo,369.0,354.0,378.0,367.0
+Total,(90+),Vidin,208.0,210.0,206.0,208.0
+Total,(90+),Vratsa,317.0,281.0,269.0,289.0
+Total,(90+),Yambol,165.0,212.0,173.0,183.33
