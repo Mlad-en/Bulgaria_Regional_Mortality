@@ -6,7 +6,7 @@ class COLUMN_HEAD:
     YEAR_2021 = '2021'
     MORTALITY = 'Mortality'
     POPULATION = 'Population'
-    STANDARD_POPULATION = 'Standard_Population'
+    STANDARD_POPULATION = 'std_pop'
     POPULATION_PER_100_000 = 'Pop_per_100000'
     LIFE_EXPECTANCY = 'Life_Expectancy'
     YEAR = 'Year'
