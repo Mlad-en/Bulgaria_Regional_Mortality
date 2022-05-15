@@ -39,7 +39,7 @@ class COLUMN_HEAD:
     PYLL_FLUCTUATION = 'PYLL_fluctuation'
     PYLL_MEAN_DECORATED = PYLL_MEAN + ' ±'
     PYLL_AVG_MEAN = 'PYLL_average_mean'
-    PYLL_AVG_FLUC = 'PYLL_fluctuation'
+    PYLL_AVG_FLUC = 'AVG_PYLL_fluctuation'
     PYLL_AVG_MEAN_DECORATED = PYLL_AVG_MEAN + ' ±'
     PYLL_STD_MEAN = 'PYLL_STD_MEAN'
     PYLL_STD_FLUC = 'PYLL_STD_FLUC'
